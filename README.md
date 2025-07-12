@@ -24,29 +24,31 @@ Rich
 
 ## Musical notes
 
-**The basics**
+### The basics
 
 Musical notes are the building blocks of music. The standard musical notes are named using the first seven letters of the alphabet:
 
 <img width="940" height="268" alt="image" src="https://github.com/user-attachments/assets/81e040d7-2a9f-44c7-a4d6-0fe54810a01f" />
 
-
+<br/><br/>
 These notes repeat in a higher or lower pitch, known as octaves. In other words,  the note `A` can be found in multiple octaves on a guitar (and so can `B`, `C`, `D`…).
+<br/><br/>
 
-**Sharps and flats**
+### Sharps and flats
 
-In addition to the natural notes, there are sharps (♯) and flats (♭):
-* `Sharp` (♯): Raises the pitch of a note by a half step (e.g., C♯ is a half step higher than C).
-* `Flat` (♭): Lowers the pitch of a note by a half step (e.g., B♭ is a half step lower than B).
-* 
-Sharps and flats overlap. A sharp (`A#`) and B flat (`B♭`) are exactly the same note
+In addition to the natural notes, there are sharps (`♯`) and flats (`♭`):
+* `Sharp` (`♯`): Raises the pitch of a note by a half step (e.g., `C♯` is a half step higher than `C`).
+* `Flat` (`♭`): Lowers the pitch of a note by a half step (e.g., `B♭` is a half step lower than `B`).
+  
+Sharps and flats overlap. `A sharp` (`A#`) and `B flat` (`B♭`) are exactly the same note
 
 `B` and `E` don’t have sharps (or, equivalently, `C` and `F` don’t have flats)
 
 
 <img width="940" height="559" alt="image" src="https://github.com/user-attachments/assets/01ced209-426b-4fd0-a307-e5715dcf1e68" />
 
-
+<br/><br/>
+<br/><br/>
 **You don’t need to start memorising where the notes are when you’re first starting out!** Basic guitar playing can be done by learning hand patterns, rather than memorising notes. If you want to improvise lead guitar lines, it’s a different story…
 
 
@@ -56,14 +58,17 @@ The vast majority of guitar music uses a standard tuning pattern. The tuning of 
 
 <img width="940" height="650" alt="image" src="https://github.com/user-attachments/assets/5f80dc3f-ba9d-426a-985c-f42395954673" />
 
+<br/><br/>
 
 Mnemonic to remember strings in standard tuning: 
+```
   **E**very 
   **B**ulb 
   **G**oes 
   **D**im 
   **A**fter 
   **E**ight
+```
 
 
 Note: perhaps counter-intuitively, the first string (a.k.a the high E string) is the one at the bottom of the guitar. In guitar tablature (see later on in this doc), the first string is depicted as being at the top of the diagram. Think of it as being first because it has the highest pitch.
