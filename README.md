@@ -30,8 +30,7 @@ Musical notes are the building blocks of music. The standard musical notes are n
 
 <img width="940" height="268" alt="image" src="https://github.com/user-attachments/assets/81e040d7-2a9f-44c7-a4d6-0fe54810a01f" />
 
-<br/><br/>
-These notes repeat in a higher or lower pitch, known as octaves. In other words,  the note `A` can be found in multiple octaves on a guitar (and so can `B`, `C`, `D`…).
+> 💡 **Tip:** These notes repeat in a higher or lower pitch, known as octaves. In other words,  the note `A` can be found in multiple octaves on a guitar (and so can `B`, `C`, `D`…).
 <br/><br/>
 
 ### Sharps and flats
@@ -61,17 +60,17 @@ The vast majority of guitar music uses a standard tuning pattern. The tuning of 
 <br/><br/>
 
 Mnemonic to remember strings in standard tuning: 
-```
-  **E**very 
-  **B**ulb 
-  **G**oes 
-  **D**im 
-  **A**fter 
-  **E**ight
-```
+
+  - **E**very 
+  - **B**ulb 
+  - **G**oes 
+  - **D**im 
+  - **A**fter 
+  - **E**ight
 
 
-Note: perhaps counter-intuitively, the first string (a.k.a the high E string) is the one at the bottom of the guitar. In guitar tablature (see later on in this doc), the first string is depicted as being at the top of the diagram. Think of it as being first because it has the highest pitch.
+
+Note: perhaps counter-intuitively, the first string (a.k.a the high `E` string) is the one at the bottom of the guitar. In guitar tablature (see later on in this doc), the first string is depicted as being at the top of the diagram. Think of it as being first because it has the highest pitch.
 
 Many non-standard tunings exist. These can be ignored when you’re starting out (unless you’re massively into metal and want to ignore every other genre)
 
