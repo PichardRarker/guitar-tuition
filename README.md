@@ -89,10 +89,10 @@ Every fret is made up of 2 fret markers, except for the first fret, which is mad
 
 <img width="600" height="290" alt="image" src="https://github.com/user-attachments/assets/bba9d9f9-ae28-45d0-a32e-471f3cbd6456" />
 <br/><br/>
+<br/><br/>
 
 > ❗ **Important:** **You absolutely don’t need to memorise the notes at this stage, this is purely scene-setting information**
 
-<br/><br/>
 > 📌 **Note:** Recall that the high `E` string is shown at the top of the diagram, even though it’s at the bottom of the guitar.
 
 <br/><br/>
