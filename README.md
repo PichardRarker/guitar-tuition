@@ -20,7 +20,7 @@ Rich
 
 * `Tuning pegs`: make sure to tune your guitar whenever you play. Just because you left it in tune, doesn’t mean it will still be in tune when you next pick it up.
 * `Strings`: these need changing every once in a while. When you’re starting out, you don’t need to change them that frequently (maybe once every 6 months, assuming you play regularly and don’t accidentally break any of them). With more playing time, you might notice that old strings sound a bit dull compared to new ones.
-* `Pickup selector`: experiment with moving the selector back and forth when playing. See if you can notice a difference. Typically the neck pickup (the one closest to the neck) sounds warmer and more bass-heavy, whereas the bridge pickup (closest one to the bridge) sounds bright and treble-heavy
+* `Pickup selector`: experiment with moving the selector back and forth when playing. See if you can notice a difference. Typically the neck pickup (the one closest to the neck) sounds warmer and more bass-heavy, whereas the bridge pickup (closest one to the bridge) sounds bright and treble-heavy.
 <br/><br/>
 
 ## 🎵: Musical notes
@@ -41,9 +41,9 @@ In addition to the natural notes, there are sharps (`♯`) and flats (`♭`):
 * `Sharp` (`♯`): Raises the pitch of a note by a half step (e.g., `C♯` is a half step higher than `C`).
 * `Flat` (`♭`): Lowers the pitch of a note by a half step (e.g., `B♭` is a half step lower than `B`).
 <br/><br/>
-> 💡 **Tip:** Sharps and flats overlap. `A sharp` (`A#`) and `B flat` (`B♭`) are exactly the same note
+> 💡 **Tip:** Sharps and flats overlap. `A sharp` (`A#`) and `B flat` (`B♭`) are exactly the same note.
 
-> ❗ **Important:** `B` and `E` don’t have sharps (or, equivalently, `C` and `F` don’t have flats)
+> ❗ **Important:** `B` and `E` don’t have sharps (or, equivalently, `C` and `F` don’t have flats).
 <br/><br/>
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/01ced209-426b-4fd0-a307-e5715dcf1e68" />
 
@@ -67,12 +67,13 @@ The vast majority of guitar music uses a standard tuning pattern. The tuning of 
 >   - **A**fter  
 >   - **E**ight
 
-
+<br/><br/>
 
 
 > 📌 **Note:** perhaps counter-intuitively, the first string (a.k.a the high `E` string) is the one at the bottom of the guitar. In guitar tablature (see later on in this doc), the first string is depicted as being at the top of the diagram. Think of it as being first because it has the highest pitch.
+<br/><br/>
 
-Many non-standard tunings exist. These can be ignored when you’re starting out (unless you’re massively into metal and want to ignore every other genre)
+Many non-standard tunings exist. These can be ignored when you’re starting out (unless you’re massively into metal and want to ignore every other genre).
 <br/><br/>
 
 ## 🎸: Frets
@@ -81,7 +82,7 @@ Guitar frets are the metal strips embedded along the neck of the guitar. They di
 
 Each fret represents a half-step in the musical scale. For example, pressing down on the first fret of the low `E` string raises the pitch from `E` to `F` (`E#` doesn't exist), the second fret raises it to `F#`, and so on.
 
-Every fret is made up of 2 fret markers, except for the first fret, which is made up of a fret marker and the nut (small strip of plastic or bone with grooves cut into it, holding the strings and separating the neck from the headstock (see earlier diagram)
+Every fret is made up of 2 fret markers, except for the first fret, which is made up of a fret marker and the nut (small strip of plastic or bone with grooves cut into it, holding the strings and separating the neck from the headstock (see earlier diagram).
 <br/><br/>
 
 ### 🗺️: The fretboard map, showing all the notes on all the frets across all the strings):
@@ -91,11 +92,13 @@ Every fret is made up of 2 fret markers, except for the first fret, which is mad
 
 > ❗ **Important:** **You absolutely don’t need to memorise the notes at this stage, this is purely scene-setting information**
 
-> 📌 **Note:** Recall that the high `E` string is shown at the top of the diagram, even though it’s at the bottom of the guitar
+<br/><br/>
+> 📌 **Note:** Recall that the high `E` string is shown at the top of the diagram, even though it’s at the bottom of the guitar.
+
 <br/><br/>
 ## 🎼: Chords
 
-A chord is simply a group of notes played together, creating a harmonious sound
+A chord is simply a group of notes played together, creating a harmonious sound.
 On a keyboard, you would press down 3 notes to make a basic chord. On a guitar, you play 3 strings.
 
 ### 🎹: Below are the various notes that make up the chords within the C Major scale:
@@ -108,16 +111,17 @@ On a keyboard, you would press down 3 notes to make a basic chord. On a guitar, 
 <br/><br/>
 ### 🙂☹️ Major and minor?
 
-Each chord has a major and a minor variant. Put simply, major chords sound happy, and minor chords sound sad. If you see a chord written just like “C”, it typically means “C Major”. Minor chords are denoted like “Cm” or “Cminor”
-
+Each chord has a major and a minor variant. Put simply, major chords sound happy, and minor chords sound sad. If you see a chord written just like “C”, it typically means “C Major”. Minor chords are denoted like “Cm” or “Cminor”.
+<br/><br/>
 ### 🎶: How many notes?
 
-A chord has a minimum of 3 notes. If you play 2 nice-sounding notes together, you have a dyad (sometimes called a double-stop on guitar)
-Some chords have more than 3 notes (e.g., 7th chords and 9th chords. These we will ignore for now)
+A chord has a minimum of 3 notes. If you play 2 nice-sounding notes together, you have a dyad (sometimes called a double-stop on guitar).
 
+> 📌 **Note:** Some chords have more than 3 notes (e.g., `7th chords` and `9th chords`. These we will ignore for now).
+<br/><br/>
 ### ❓: When I see people strumming chords, it looks like they’re playing more than 3 notes at a time…
 
-Often a guitarist might be playing all 6 strings when strumming a chord, but they’re still only hitting 3 distinct notes. They will be hitting duplicate notes as they play. Take the CMajor chord for example, which is made up of C, E and G notes (see above). If you do the standard C Major open chord shape (described below) on guitar, then you’re playing:
+Often a guitarist might be playing all 6 strings when strumming a chord, but they’re still only hitting 3 distinct notes. They will be hitting duplicate notes as they play. Take the `CMajor` chord for example, which is made up of C, E and G notes (see above). If you do the standard C Major open chord shape (described below) on guitar, then you’re playing:
 
 * 6th string (low `E` string): `E` (open string)
 * 5th string (`A` string): `C` (3rd fret)
@@ -139,6 +143,7 @@ Chords are often taught to guitarists using diagrams like this:
 > * The number within each dot = a suggestion of which finger to place on the string in question.
 > * When presented with diagrams that show the guitar rotated 90 degrees (as above), the high `E` string = furthest on the right. If “right way up”, then these diagrams essentially mirror the guitar you’re holding, and so the high `E` string is at the bottom (so sometimes the high `E` string is at the top, and sometimes it’s at the bottom of the diagram. Confusing, I know).
 > * In addition to the fretting instructions, the diagrams above show symbols next to the nut. `X` symbols indicate that the string should be muted or not played (string muting is a technique not covered in this doc). `0` symbols indicate strings should be played without any fretting (played open).
+
 <br/><br/>
 ## 🗺️: Tablature
 
@@ -152,7 +157,7 @@ You can quite happily survive as a guitarist without ever learning proper musica
 
 ### Example #1
 
-<img width="355" height="283" alt="image" src="https://github.com/user-attachments/assets/9a51bb9d-963a-4bc6-bdbf-aba86b8ef7d2" />
+<img width="250" height="170" alt="image" src="https://github.com/user-attachments/assets/9a51bb9d-963a-4bc6-bdbf-aba86b8ef7d2" />
 <br/><br/>
 This particular tab represents a single strum of an `E minor` chord, to `G Major`, to `D Major` and then to `C Major` (this happens to be the pattern for *Polly* by Nirvana).
 <br/><br/>
@@ -168,16 +173,18 @@ This particular tab represents a single strum of an `E minor` chord, to `G Major
 ### Example #2
 
 <img width="350" height="200" alt="image" src="https://github.com/user-attachments/assets/4ec3a908-68c8-4cdf-9c9d-d86a5d935e57" />
-<br/><br/>
+
+
+
 This tab shows the opening riff of *Daytripper* by The Beatles. We’re now dealing with single notes, not chords. 
 <br/><br/>
 
 ## 🔊: Electric guitar amp effects
 
 This is a very big topic, so we’re only going to cover the absolute basics here:
-* `clean setting` - a pure, undistorted sound often used in genres like jazz, pop, and certain styles of rock. 
-* `Distortion` –
-* `Bass`, `mids` and `treble`: the sound you make with an electric guitar is actually a mixture of different frequencies. Your amplifier will have dials that can selectively amplify the low frequencies (bass), high frequencies (treble) and those in the middle. Try playing round with different settings for these dials. A good starting point is setting everything to the 12 o’clock position. You can also find settings for your favourite songs online
+* `Playing ""clean` - a pure, undistorted sound often used in genres like jazz, pop, and certain styles of rock. 
+* `Distortion` – a sound effect that makes your guitar tone grittier and more aggressive. It happens when the guitar signal is intentionally "clipped"—meaning the sound wave gets squashed and pushed beyond its normal limit. Distortion may be achieved through a dedicated switch on your amp, or through a `distortion pedal`, bought separately and added into your signal chain between the guitar and amplifier.
+* `Bass`, `mids` and `treble`: the sound you make with an electric guitar is actually a mixture of different frequencies. Your amplifier will have dials that can selectively amplify the low frequencies (bass), high frequencies (treble) and those in the middle. Try playing round with different settings for these dials. A good starting point is setting everything to the 12 o’clock position. You can also find settings for your favourite songs online.
 
 
 ## 🛹: General tips/tricks when starting out
