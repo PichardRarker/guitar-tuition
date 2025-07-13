@@ -182,7 +182,7 @@ This tab shows the opening riff of *Daytripper* by The Beatles. We’re now deal
 ## 🔊: Electric guitar amp effects
 
 This is a very big topic, so we’re only going to cover the absolute basics here:
-* `Playing ""clean` - a pure, undistorted sound often used in genres like jazz, pop, and certain styles of rock. 
+* `Playing "clean"` - a pure, undistorted sound often used in genres like jazz, pop, and certain styles of rock. 
 * `Distortion` – a sound effect that makes your guitar tone grittier and more aggressive. It happens when the guitar signal is intentionally "clipped"—meaning the sound wave gets squashed and pushed beyond its normal limit. Distortion may be achieved through a dedicated switch on your amp, or through a `distortion pedal`, bought separately and added into your signal chain between the guitar and amplifier.
 * `Bass`, `mids` and `treble`: the sound you make with an electric guitar is actually a mixture of different frequencies. Your amplifier will have dials that can selectively amplify the low frequencies (bass), high frequencies (treble) and those in the middle. Try playing round with different settings for these dials. A good starting point is setting everything to the 12 o’clock position. You can also find settings for your favourite songs online.
 
