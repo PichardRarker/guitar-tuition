@@ -111,7 +111,7 @@ On a keyboard, you would press down 3 notes to make a basic chord. On a guitar, 
 <br/><br/>
 ### 🙂☹️ Major and minor?
 
-Each chord has a major and a minor variant. Put simply, major chords sound happy, and minor chords sound sad. If you see a chord written just like “C”, it typically means “C Major”. Minor chords are denoted like “Cm” or “Cminor”.
+Each chord has a major and a minor variant. Put simply, major chords sound happy, and minor chords sound sad. If you see a chord written just like `C`, it typically means `C Major`. Minor chords are denoted like `Cm` or `Cminor`.
 <br/><br/>
 ### 🎶: How many notes?
 
@@ -121,7 +121,7 @@ A chord has a minimum of 3 notes. If you play 2 nice-sounding notes together, yo
 <br/><br/>
 ### ❓: When I see people strumming chords, it looks like they’re playing more than 3 notes at a time…
 
-Often a guitarist might be playing all 6 strings when strumming a chord, but they’re still only hitting 3 distinct notes. They will be hitting duplicate notes as they play. Take the `CMajor` chord for example, which is made up of C, E and G notes (see above). If you do the standard C Major open chord shape (described below) on guitar, then you’re playing:
+Often a guitarist might be playing all 6 strings when strumming a chord, but they’re still only hitting 3 distinct notes. They will be hitting duplicate notes as they play. Take the `CMajor` chord for example, which is made up of `C`, `E` and `G` notes (see above). If you do the standard `C Major` open chord shape (described below) on guitar, then you’re playing:
 
 * 6th string (low `E` string): `E` (open string)
 * 5th string (`A` string): `C` (3rd fret)
