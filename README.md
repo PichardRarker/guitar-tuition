@@ -149,7 +149,7 @@ Chords are often taught to guitarists using diagrams like this:
 
 
 Guitar tablature ("tabs”) is a form of musical notation specifically designed for guitarists. Unlike traditional sheet music, which uses staff notation, tabs use a series of horizontal lines representing the guitar strings. Numbers on these lines indicate the frets where the player should place their fingers.
-You can quite happily survive as a guitarist without ever learning proper musical notation (I can’t read sheet music, and have no intention on learning)
+You can quite happily survive as a guitarist without ever learning proper musical notation (I can’t read sheet music, and have no intention on learning).
 <br/><br/>
 > 💡 **Tip:** Guitar tab is more flexible than chord diagrams – it can be used to represent chords, but also sequences of notes (riffs). 
 <br/><br/>
@@ -189,11 +189,11 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 
 ## 🛹: General tips/tricks when starting out
 
-* The fingers on your fretting hand are going to really hurt at first. That’s normal. It gets better quite quickly, I promise. With a bit of exposure, your fingertips start to develop calluses (thickened skin). If the pain is really bothering you, consider putting some tape on the ends of your fingers
+* The fingers on your fretting hand are going to really hurt at first. That’s normal. It gets better quite quickly, I promise. With a bit of exposure, your fingertips start to develop calluses (thickened skin). If the pain is really bothering you, consider putting some tape on the ends of your fingers.
 * When first practicing chords, the hand positions are going to feel very alien. Your hand isn’t used to making those shapes. With a bit of practice, your hand will strengthen and get used to the sensation. 
-* Having small hands isn’t going to be a massive hindrance! Pain/discomfort early on will pass as you strengthen your fingers. There’s plenty of great guitarists out there with small hands (check out the diminutive Eddie Van Halen, personal musical hero of mine)
+* Having small hands isn’t going to be a massive hindrance! Pain/discomfort early on will pass as you strengthen your fingers. There’s plenty of great guitarists out there with small hands (check out the diminutive Eddie Van Halen, personal musical hero of mine).
 * The key to practicing is: **nail whatever it is you’re playing at a slow speed, then gradually speed it up.** If you jump in too quickly with trying to play your favourite song at full speed, you’re going to ingrain mistakes into your playing. 
-* If you’re learning how to play a track with distortion: try first playing it without distortion (or with minimal distortion). Many beginners hide their bad mistakes behind a big wall of fuzz (I know I did). There’s no hiding on the clean amp setting! On the flip side, playing with distortion is different to playing clean. If you only practice a song without distortion, chances are it’s not going to sound good when you finally switch to playing distorted. Learning strategies to “tame” a distorted guitar is essential to playing heavy rock and metal (but get the fundamentals nailed down first)
+* If you’re learning how to play a track with distortion: try first playing it without distortion (or with minimal distortion). Many beginners hide their bad mistakes behind a big wall of fuzz (I know I did). There’s no hiding on the clean amp setting! On the flip side, playing with distortion is different to playing clean. If you only practice a song without distortion, chances are it’s not going to sound good when you finally switch to playing distorted. Learning strategies to “tame” a distorted guitar is essential to playing heavy rock and metal (but get the fundamentals nailed down first).
 * Practicing without an amp for extended periods is not advised! Even if you’re playing clean,  amplification introduces subtle challenges to your playing, and you won’t experience these if you play unplugged. 
 * Some people develop an irrational fear of strings snapping and whipping their arms/hands. You will eventually break a string, but there’s an incredibly miniscule chance it’s going to cause you any damage. In 20+ years a string has never caused me any damage.
 * You don’t need to devote loads and loads of time to mastering the basics. One of the reasons guitars are so popular to learn is that you can start to sound good relatively quickly. Consistency is key – practice little and often, keeping up the momentum.
@@ -201,19 +201,19 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 ## 💡: Resources I've found useful
 
 * [MartyMusic](https://www.youtube.com/@MartyMusic) (YouTube) – nice guy with some great beginner-friendly song tabs and technique videos.
-* [JustinGuitar](https://www.youtube.com/@justinguitar) (YouTube and personal website) – more beginner friendly lessons
-* [Ultimate-guitar.com](https://www.ultimate-guitar.com) – loads of free song tabs. Be careful to pick tabs which are highly voted – there’s loads of inaccurate tabs out there
+* [JustinGuitar](https://www.youtube.com/@justinguitar) (YouTube and personal website) – more beginner friendly lessons.
+* [Ultimate-guitar.com](https://www.ultimate-guitar.com) – loads of free song tabs. Be careful to pick tabs which are highly voted – there’s loads of inaccurate tabs out there.
 * [Filippo Dall’Asta’s “Learn how to improvise on guitar in 30 days”](https://www.udemy.com/course/learn-how-to-improvise-on-guitar)  – this is a paid course for learning the basics of music theory as applied to guitar. I did this course during the COVID lockdown to brush up on theory, and found it really helpful.
-* Google metronome – Google has an in-built metronome, if you want to practice playing in time (strongly recommend that you do this!)
-* [Reverb.com](https://reverb.com/uk) – basically eBay for musicians. Great for picking up second-hand gear at a reduced price
+* Google metronome – Google has an in-built metronome, if you want to practice playing in time (strongly recommend that you do this!).
+* [Reverb.com](https://reverb.com/uk) – basically eBay for musicians. Great for picking up second-hand gear at a reduced price.
 
 
 ## ⚙️: Beginner's gear
 
 * `Plectrum` (or pick) – small bit of plastic you use to hit the strings. Some guitarists just use their fingers, but it’s good to experiment with playing with a pick to see what you prefer. Picks come in a variety of thicknesses, to suit different styles and personal preferences. Just buy a variety pack to see what you like – they aren’t expensive.
 * `Tuner`. Nowadays you can download a variety of free phone apps for tuning your guitar. These use the sounds your guitar makes to provide corrective feedback, and so are only accurate if played in a quiet space. A better way to tune is to use a device that actually connects to your guitar (using the same cable you’d use to connect your guitar to your amp). These can provide accurate results in any environment.
-* `Capo` – a small plastic or metal clamp that effectively moves the guitar nut up the neck, creating a different tuning without touching your tuning pegs. Many popular songs require a capo to play them properly (you aren’t going to impress your friends with a rendition of *Wonderwall* without a capo on your second fret)
-* If you live in London (and if you read this, you probably do), check out Denmark Street, otherwise known as Tin Pan Alley, near to Tottenham Court road. An entire street filled with music shops (mostly devoted to guitar). Great for inspiration and for sourcing cheap gear (or for dropping £30k on a 1950s Fender Stratocaster)
+* `Capo` – a small plastic or metal clamp that effectively moves the guitar nut up the neck, creating a different tuning without touching your tuning pegs. Many popular songs require a capo to play them properly (you aren’t going to impress your friends with a rendition of *Wonderwall* without a capo on your second fret).
+* If you live in London (and if you read this, you probably do), check out Denmark Street, otherwise known as Tin Pan Alley, near to Tottenham Court road. An entire street filled with music shops (mostly devoted to guitar). Great for inspiration and for sourcing cheap gear (or for dropping £30k on a 1950s Fender Stratocaster).
 
 
 ## 🏃: Next steps
