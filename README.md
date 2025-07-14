@@ -158,7 +158,7 @@ You can quite happily survive as a guitarist without ever learning proper musica
 ### Example #1
 
 <img width="250" height="170" alt="image" src="https://github.com/user-attachments/assets/9a51bb9d-963a-4bc6-bdbf-aba86b8ef7d2" />
-<br/><br/>
+
 This particular tab represents a single strum of an `E minor` chord, to `G Major`, to `D Major` and then to `C Major` (this happens to be the pattern for *Polly* by Nirvana).
 <br/><br/>
 
@@ -186,7 +186,7 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 * `Distortion` – a sound effect that makes your guitar tone grittier and more aggressive. It happens when the guitar signal is intentionally "clipped"—meaning the sound wave gets squashed and pushed beyond its normal limit. Distortion may be achieved through a dedicated switch on your amp, or through a `distortion pedal`, bought separately and added into your signal chain between the guitar and amplifier.
 * `Bass`, `mids` and `treble`: the sound you make with an electric guitar is actually a mixture of different frequencies. Your amplifier will have dials that can selectively amplify the low frequencies (bass), high frequencies (treble) and those in the middle. Try playing round with different settings for these dials. A good starting point is setting everything to the 12 o’clock position. You can also find settings for your favourite songs online.
 
-
+<br/><br/>
 ## 🛹: General tips/tricks when starting out
 
 * The fingers on your fretting hand are going to really hurt at first. That’s normal. It gets better quite quickly, I promise. With a bit of exposure, your fingertips start to develop calluses (thickened skin). If the pain is really bothering you, consider putting some tape on the ends of your fingers.
@@ -198,6 +198,7 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 * Some people develop an irrational fear of strings snapping and whipping their arms/hands. You will eventually break a string, but there’s an incredibly miniscule chance it’s going to cause you any damage. In 20+ years a string has never caused me any damage.
 * You don’t need to devote loads and loads of time to mastering the basics. One of the reasons guitars are so popular to learn is that you can start to sound good relatively quickly. Consistency is key – practice little and often, keeping up the momentum.
 
+<br/><br/>
 ## 💡: Resources I've found useful
 
 * [MartyMusic](https://www.youtube.com/@MartyMusic) (YouTube) – nice guy with some great beginner-friendly song tabs and technique videos.
@@ -207,7 +208,7 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 * Google metronome – Google has an in-built metronome, if you want to practice playing in time (strongly recommend that you do this!).
 * [Reverb.com](https://reverb.com/uk) – basically eBay for musicians. Great for picking up second-hand gear at a reduced price.
 
-
+<br/><br/>
 ## ⚙️: Beginner's gear
 
 * `Plectrum` (or pick) – small bit of plastic you use to hit the strings. Some guitarists just use their fingers, but it’s good to experiment with playing with a pick to see what you prefer. Picks come in a variety of thicknesses, to suit different styles and personal preferences. Just buy a variety pack to see what you like – they aren’t expensive.
@@ -215,7 +216,7 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 * `Capo` – a small plastic or metal clamp that effectively moves the guitar nut up the neck, creating a different tuning without touching your tuning pegs. Many popular songs require a capo to play them properly (you aren’t going to impress your friends with a rendition of *Wonderwall* without a capo on your second fret).
 * If you live in London (and if you read this, you probably do), check out Denmark Street, otherwise known as Tin Pan Alley, near to Tottenham Court road. An entire street filled with music shops (mostly devoted to guitar). Great for inspiration and for sourcing cheap gear (or for dropping £30k on a 1950s Fender Stratocaster).
 
-
+<br/><br/>
 ## 🏃: Next steps
 
 There’s loads not covered in this doc, and many helpful beginner tips are not easy to convey on paper. For example, picking hand position, subtle positioning of the fretting hand fingers to avoid accidental muting of strings when playing chords, taming distortion, etc). Some of these concepts (e.g., hand position) don’t have a right or wrong answer, and it’s up to you to do some exploring and see what you prefer. It’s also good practice to pay close attention to how others play, especially if they play music you want to learn. Of course, these things can also be discussed in face-to-face lessons!
