@@ -48,8 +48,8 @@ In addition to the natural notes, there are sharps (`♯`) and flats (`♭`):
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/01ced209-426b-4fd0-a307-e5715dcf1e68" />
 
 > 📌 **Note:** **You don’t need to start memorising where the notes are when you’re first starting out!** Basic guitar playing can be done by learning hand patterns, rather than memorising notes. If you want to improvise lead guitar lines, it’s a different story…
-<br/><br/>
 
+<br/><br/>
 ## 🧶: Strings
 
 The vast majority of guitar music uses a standard tuning pattern. The tuning of a string = the note it makes when you play the string without pressing down on any fret:
@@ -104,7 +104,7 @@ On a keyboard, you would press down 3 notes to make a basic chord. On a guitar, 
 ### 🎹: Below are the various notes that make up the chords within the C Major scale:
 
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ff3bf687-3110-4800-a097-0267183962de" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/ff3bf687-3110-4800-a097-0267183962de" />
 
 > ❓how do we know the chords that make up a scale? That comes later!
 
@@ -135,7 +135,7 @@ Often a guitarist might be playing all 6 strings when strumming a chord, but the
 
 Chords are often taught to guitarists using diagrams like this:
 
-<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/2fecf590-820f-4edb-8a04-2ba3af6c1e98" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/2fecf590-820f-4edb-8a04-2ba3af6c1e98" />
 
 > ❗ **Important points:**
 >
