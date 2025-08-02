@@ -6,14 +6,21 @@ Power chords are simple, two-note chords often used in rock, punk, and metal mus
 
 Loads of very recongisable guitar riffs are written entirely with power chords, including:
 
-* Teenage Kicks - The Undertones
-* Smells Like Teen Spirit - Nirvana
+- **"Smells Like Teen Spirit" – Nirvana**
+- **"American Idiot" – Green Day**
+- **"I Love Rock 'n' Roll" – Joan Jett**
+- **"Iron Man" – Black Sabbath**
+- **"Blitzkrieg Bop" – Ramones**
+- **"Seven Nation Army" – The White Stripes** (main riff can be played with power chords)
+- **"T.N.T." – AC/DC**
 
 
-> [!TIP] Are they major or minor?
-> Power chords are great f
+
+> 📌 **Note:** **Power chords are neither major nor minor**. They have an ambiguous sound because they lack the 3rd interval note 
 
 
+## Power chord basic elements
 
+Following this page: https://www.guitarnoise.com/guide/power-chords/
 
-Power chords use just the root note and the fifth, making them a great starting point for beginners who want to play songs quickly and build finger strength.
+.. highlight 2 note playing, 3 note playing, then playing by barring first fret
