@@ -62,11 +62,15 @@ As with the 2 string strategy, moving this shape down 1 string gives us an `A#` 
 
 
 
-SECTION HERE ABOUT STRING MUTING? with emoji = no sound icon
+## 🔇Power chords and string muting
 
+You'll notice that the previous power chord diagrams contain `x` symbols next to a number of strings. These are strings that should not be hit when playing power chords, or alternatively, are played alongside _string muting_: lightly placing a finger over unwanted strings, and thus muting them. 
 
+The trick to string muting is getting the pressure right - too little, and the open string note will still ring out. Too much,and you end up fretting a note. You should apply just enough pressure that when you hit the string, you get a dull `thunk` sound. This will get drowned out by the other notes you fret when playing a power chord. 
 
-> 📌 **Tip:**  If you move the 3 string playing a power chord with a root on the 5th string, then your 
+If playing a power chord using either the 2 or 3 note strategies, then your index finger will be ligthly touching strings 1, 2 and 3. In other words, you only need to re-adjust the natural power chord hand positioning very slightly in order to achieve a good muting!
+
+> 📌 **Note:**  If you're playing a 2 or 3 note powerchord with a root on the 5th string, you'll need to additionally mute the low `E` string (unless you're playing an `E5` power chord, because then you end up doubling up the root note). You can use your thumb to mute the low `E`, as you might do when playing open chords 
 
 <br/><br/>
 
