@@ -31,7 +31,7 @@ The basic elements of a power chord are:
 
 For example, the image above shows an `F` power chord, where the index finger would play the 6th string on the first fret (which is an `F` note), and the middle finger plays the 5th string of the 3rd fret (which is a `C`). This chord is sometimes called `F5`. 
 
-<img width="1217" height="675" alt="F-major-chord" src="https://github.com/user-attachments/assets/3da2d797-0faf-4db4-b68b-c869fdc3f314" />
+<img width="600" height="300" alt="F-major-chord" src="https://github.com/user-attachments/assets/3da2d797-0faf-4db4-b68b-c869fdc3f314" />
 
 
 > 💡 **Tip:** 5th interval = 5 notes away. Starting from `F`, count five letter names up: `F` (1), `G` (2), `A` (3), `B` (4), `C` (5). This is why power chords are sometimes referred to as fifth chords.
@@ -40,7 +40,8 @@ For example, the image above shows an `F` power chord, where the index finger wo
 
 Taking our F5 chord as the starting point, moving the index and 3rd fingers each down by a string (but not changing the frets) gives us an `A#` power chord. The 1st finger is fretting `A#` (the root note) and the 3rd fretting `F` (which is 5 intervals away from `A#`)
 
-A SHARP POWER CHORD DIAGRAM
+<img width="767" height="714" alt="Screenshot 2025-08-04 190110" src="https://github.com/user-attachments/assets/0737883d-5a4b-40d9-88ad-06d3568d8b57" />
+
 
 
 <br/><br/>
@@ -67,13 +68,19 @@ SECTION HERE ABOUT STRING MUTING? with emoji = no sound icon
 
 > 📌 **Tip:**  If you move the 3 string playing a power chord with a root on the 5th string, then your 
 
+<br/><br/>
+
 
 ## :exploding_head: Even more involved: the barre chord approach
 
 Yet another strategy for playing power chords involves _barring_ the fret containing the low root note, then placing 3rd and 4th fingers as described above.
 
 > 💡 **Tip:** _barring_ refers to a technique where you use one finger (usually the index finger) to press down multiple strings across a single fret. This creates a kind of "bar" across the fretboard, allowing you to play chords that would otherwise be difficult or impossible with standard finger placement. Chords which make use of this technique are referred to as _barre chords_
-IMAGE OF F minor BARRE CHORD
+<br/><br/>
+
+![images](https://github.com/user-attachments/assets/0eecad98-6535-41e4-a861-476617cb4c9f)
+
+<br/><br/>
 
 
 ### Are power chords played this way barre chords?
@@ -92,10 +99,10 @@ This also means that, strictly speaking, you don't need to properly fret with yo
 
 The barring technique is particularly tricky for new players. You will need a bit of trial and error to find the hand position that works well for you, and will probably need a bit of finger sterengthening too (unles you're an avid rock climber). Some general tips are:
 
-i) **Press your thumb into the back of the neck for support**. This approach works well for most people. For other chord positions (e.g., open chords), your thumb doesn't need to be pressed into the neck 
-ii) **Rotate your index finger onto the side when barring**. This slight rolling pushes the boney part of your finger into the strings, making it easier to properly apply decent pressure to the strings
-iii) **Rest your second finger against the barring finger**. You'll notice that none of the power chord strategies mentioned above use the 2nd finger. When playing barre chords, you can use the second finger to add more pressure to the barring. 
-iv) ***Experiment with different index finger heights**. When barring, move your index finger up (towards your head) or down (towads the floor). Your fingers are not uniform across their length - some positions will be easier for you to apply consistent pressure to the strings. Personally, I play barre chords with my tip of the index finger _very slightly_ higher than the 6th string.
+- **Press your thumb into the back of the neck for support**. This approach works well for most people. For other chord positions (e.g., open chords), your thumb doesn't need to be pressed into the neck
+- **Rotate your index finger onto the side when barring**. This slight rolling pushes the boney part of your finger into the strings, making it easier to properly apply decent pressure to the strings
+- **Rest your second finger against the barring finger**. You'll notice that none of the power chord strategies mentioned above use the 2nd finger. When playing barre chords, you can use the second finger to add more pressure to the barring.
+- ***Experiment with different index finger heights**. When barring, move your index finger up (towards your head) or down (towads the floor). Your fingers are not uniform across their length - some positions will be easier for you to apply consistent pressure to the strings. Personally, I play barre chords with my tip of the index finger _very slightly_ higher than the 6th string.
 
 
 ## ❓ What power chord technique should I use when?
@@ -104,10 +111,10 @@ You might be wondering whether you need to bother learning all 3 power chord str
 
 I would say that it's worth learning all 3 approaches, and learning when to deploy one over the other. Some points are provided below:
 
-i) The 2 and 3 string versions of the power chord are easiest to move around the neck at great speed. If you're playing fast metal, you probably want to use one of these approaches (check out a tab of _Iron Man_ by Black Sabbath. This would be hard to play with fret barring)
-ii) The added `F` for the 3 note approach makes the chord sound a bit "fuller" when compared to the 2 string approach. If your guitar is drowning in distortion, you might not notice the difference. OWN OPINION, VALIDATE THIS
-iii) The barre chord approach is a bit more forgiving to accidentally hitting strings outside the power chord. If you're playing a 3 note power chord with the root on the 6th string, then hitting strings 3, 2 and 1 probably won't sound good. If you're playing the 2 note power chord with the root on the fifth string, then hitting strings 6, 3, 2 or 1 probably won't sound good. Returning to our earlier `F5` chord example: if you're playing an `F5` chord by barring the first fret, and you get a bit carried a way and hit all 6 strings, strings 1 and 2 will sound good because they are within the power chord (`F` and `C` notes). It's only the `G#` on the 3rd string that causes issues, and only quite a minor issue, at that. 
-iv) You cannot fully escape the barring technique, you'll need it to play "proper" barre chords as you learn more songs. Might as well embrace it :)
+- The 2 and 3 string versions of the power chord are easiest to move around the neck at great speed. If you're playing fast metal, you probably want to use one of these approaches (check out a tab of _Iron Man_ by Black Sabbath. This would be hard to play with fret barring)
+- The added `F` for the 3 note approach makes the chord sound a bit "fuller" when compared to the 2 string approach. If your guitar is drowning in distortion, you might not notice the difference. OWN OPINION, VALIDATE THIS
+- The barre chord approach is a bit more forgiving to accidentally hitting strings outside the power chord. If you're playing a 3 note power chord with the root on the 6th string, then hitting strings 3, 2 and 1 probably won't sound good. If you're playing the 2 note power chord with the root on the fifth string, then hitting strings 6, 3, 2 or 1 probably won't sound good. Returning to our earlier `F5` chord example: if you're playing an `F5` chord by barring the first fret, and you get a bit carried a way and hit all 6 strings, strings 1 and 2 will sound good because they are within the power chord (`F` and `C` notes). It's only the `G#` on the 3rd string that causes issues, and only quite a minor issue, at that.
+- You cannot fully escape the barring technique, you'll need it to play "proper" barre chords as you learn more songs. Might as well embrace it :)
 
 
 Tip: an alternative strategy for dealing with accidental hitting of unwanted strings is to employ _string muting_: lightly placing a finger over unwanted strings, pre-emptively avoiding unwanted muddying of power chords by muting the sound these strings would make. This is particularly effective when playing power chords with roots on the 5th string - you can use your thumb, or the tip of your index finger to lightly press against the unwanted 6th string. 
