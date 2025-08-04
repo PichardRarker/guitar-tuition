@@ -22,7 +22,7 @@ Loads of very recongisable guitar riffs are played with power chords, including:
 
 The basic elements of a power chord are:
 
-- The root note (the low `E` string or the `A` string)
+- The root note (played on either the low `E` string or the `A` string)
 - The 5th interval (of a major scale), which is 2 frets over and 1 string down from the root note. 
 
 ![F5](https://github.com/user-attachments/assets/6486478b-cad6-47e8-a674-b538a8647ebd)
