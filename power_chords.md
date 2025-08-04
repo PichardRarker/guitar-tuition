@@ -13,16 +13,18 @@ Loads of very recongisable guitar riffs are written entirely with power chords, 
 - **_Blitzkrieg Bop_ – Ramones**
 - **_Seven Nation Army_ – The White Stripes** (main riff can be played with power chords)
 
+<br/><br/>
 
 
 > 📌 **Note:** **Power chords are neither major nor minor**. They have an ambiguous sound because they lack the 3rd interval note. This means i) They can be slotted into major and minor movements in songs, and ii) they sound good in rock and metal, where heavy distortion often muddies the sound of major and minor chords. 
+<br/><br/>
 
 ## :fried_egg: Power chord basic recipe
 
 The basic elements of a power chord are:
 
-i) the root note (the low `E` string or the `A` string)
-ii) the 5th interval (of a major scale), which is 2 frets over and 1 string down from the root note. 
+- The root note (the low `E` string or the `A` string)
+- The 5th interval (of a major scale), which is 2 frets over and 1 string down from the root note. 
 
 IMAGE
 
@@ -31,7 +33,7 @@ For example, the image above shows an `F` power chord, where the index finger wo
 DIAGRAM OF PIANO PLAYING AN F MAJOR CHORD, WITHE THE THIRD CROSSED OUT
 
 
-> 💡 **Tip:** 5th interval = 5 notes away. Starting from F, count five letter names up: F (1), G (2), A (3), B (4), C (5). Power chords are sometimes referred to as fifth chords, or like "F5".
+> 💡 **Tip:** 5th interval = 5 notes away. Starting from `F`, count five letter names up: `F` (1), `G` (2), `A` (3), `B` (4), `C` (5). This is why power chords are sometimes referred to as fifth chords.
 
 Taking our F5 chord as the starting point, moving the index and 3rd fingers each down by a string (but not changing the frets) gives us an A# power chord. The 1st finger is fretting A# (the root note) and the 3rd fretting F (which is 5 intervals away from A#)
 
