@@ -98,7 +98,6 @@ This also means that, strictly speaking, you don't need to properly fret with yo
 > 📌 **Note:**  If you're playing a power chord rooted on the the 5th string with the barre technique, you need to hit strings 4, 3, 2, **and you can additionally hit string 6**. The reason for this is described in the next section.
 
 <br/><br/>
-
 ### :brain: Tips for barre chord approaches to power chords (and barre chords, in general)
 
 The barring technique is particularly tricky for new players. You will need a bit of trial and error to find the hand position that works well for you, and will probably need a bit of finger sterengthening too (unles you're an avid rock climber). Some general tips are:
@@ -120,9 +119,6 @@ I would say that it's worth learning all 3 approaches, and learning when to depl
 - The added `F` for the 3 note approach makes the chord sound slightly different! Try moving quickly between the same power chord, played with 2 notes vs 3. **NOTE**: if your guitar is drowning in distortion, you might not notice a difference.
 - If you're using the barre chord strategy and playing a power chord with the root note on the 5th string, then you don't need to mute the 6th string. This is because the barring finger on the 6th string will be fretting another instance of the the 5th interval note. Returning to our earlier `A#` power chord example, the barring finger will be placed over the first fret, giving us `A#` on the 5th string (the root) **and also the 5th interval `F` on the 6th string**. Playing a power chord this way produces a nice full sound.
 - You cannot fully escape the barring technique, you'll need it to play "proper" barre chords as you learn more songs. Might as well embrace it :)
-
-
-Tip: an alternative strategy for dealing with accidental hitting of unwanted strings is to employ _string muting_: lightly placing a finger over unwanted strings, pre-emptively avoiding unwanted muddying of power chords by muting the sound these strings would make. This is particularly effective when playing power chords with roots on the 5th string - you can use your thumb, or the tip of your index finger to lightly press against the unwanted 6th string. 
 
 
 
