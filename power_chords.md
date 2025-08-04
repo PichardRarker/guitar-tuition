@@ -88,14 +88,14 @@ Yet another strategy for playing power chords involves _barring_ the fret contai
 
 ### Are power chords played this way barre chords?
 
-Sort of. When you play a power chord using this approach, it's only technically a power chord if you hit the 6th, 5th and 4th strings. If you strum all 6 strings you'll find it makes a pleasant sound, but this is no longer a power chord - you're playing a minor chord using the barring technique. 
+Sort of. Returning to our `F5` example - when you play a power chord using this approach, it's only technically a power chord if you hit the 6th, 5th and 4th strings. If you strum all 6 strings you'll find it makes a pleasant sound, but this is no longer a power chord - you're playing a minor chord using the barring technique. 
 
-Let's look at `F5` again, played using the barring technique.
+Concretely, from the image above, it's easy to see that if we just hit strings 6, 5 and 4, then as with the 3 note power chord strategy, we're only playing `F`s and a `C` (`F5` power chord achieved!). If we additionally play strings 3, 2 and 1, then we add into the mix yet another `F` note (from the high `E` string, fretted at the first fret by the barre), another `C` note (2nd string 1st fret), **but also a `G#`, which comes from the barre on the 1st fret 3rd string. If you play `F`, `C` and `G#` together, you have an `Fminor` barre chord. 
 
-From the image above, it's easy to see that if we just hit strings 6, 5 and 4, then as with the 3 note power chord strategy, we're only playing `F`s and a `C` (`F5` power chord achieved!). If we additionally play strings 3, 2 and 1, then we add into the mix yet another `F` note (from the high `E` string, fretted at the first fret by the barre), another `C` note (2nd string 1st fret), **but also a `G#`, which comes from the barre on the 1st fret 3rd string. If you play `F`, `C` and `G#` together, you have an `Fminor` barre chord. 
-
-This also means that, strictly speaking, you don't need to properly fret with your barring finger in order to play a power chord. You only need to accurately fret the 6th, 5th and 4th strings. If your barring is a bit off and the 1st, 2nd or 3rd strings are a bit muted, it doesn't matter (as you won't be hitting those strings anyway)
+This also means that, strictly speaking, you don't need to properly fret with your barring finger in order to play a power chord. If you're playing a power chord rooted on the 6th string, you only need to accurately fret the 6th, 5th and 4th strings. If your barring is a bit off and the 1st, 2nd or 3rd strings are a bit muted, it doesn't matter (as you won't be hitting those strings anyway)
 <br/><br/>
+
+> 📌 **Note:**  If you're playing a power chord rooted on the the 5th string with the barre technique, you need to hit strings 4, 3, 2, **and you can additionally hit string 6**. The reason for this is described in the next section.
 
 ### :brain: Tips for barre chord approaches to power chords (and barre chords, in general)
 
