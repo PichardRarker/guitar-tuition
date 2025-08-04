@@ -99,12 +99,14 @@ This also means that, strictly speaking, you don't need to properly fret with yo
 
 ### :brain: Tips for barre chord approaches to power chords (and barre chords, in general)
 
+<br/><br/>
+
 The barring technique is particularly tricky for new players. You will need a bit of trial and error to find the hand position that works well for you, and will probably need a bit of finger sterengthening too (unles you're an avid rock climber). Some general tips are:
 
 - **Press your thumb into the back of the neck for support**. This approach works well for most people. For other chord positions (e.g., open chords), your thumb doesn't need to be pressed into the neck
 - **Rotate your index finger onto the side when barring**. This slight rolling pushes the boney part of your finger into the strings, making it easier to properly apply decent pressure to the strings
 - **Rest your second finger against the barring finger**. You'll notice that none of the power chord strategies mentioned above use the 2nd finger. When playing barre chords, you can use the second finger to add more pressure to the barring.
-- ***Experiment with different index finger heights**. When barring, move your index finger up (towards your head) or down (towads the floor). Your fingers are not uniform across their length - some positions will be easier for you to apply consistent pressure to the strings. Personally, I play barre chords with my tip of the index finger _very slightly_ higher than the 6th string.
+- **Experiment with different index finger heights**. When barring, move your index finger up (towards your head) or down (towads the floor). Your fingers are not uniform across their length - some positions will be easier for you to apply consistent pressure to the strings. Personally, I play barre chords with my tip of the index finger _very slightly_ higher than the 6th string.
 <br/><br/>
 
 
