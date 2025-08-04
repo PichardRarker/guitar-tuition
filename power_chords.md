@@ -70,7 +70,7 @@ The trick to string muting is getting the pressure right - too little, and the o
 
 If playing a power chord using either the 2 or 3 note strategies, then your index finger will be ligthly touching strings 1, 2 and 3. In other words, you only need to re-adjust the natural power chord hand positioning very slightly in order to achieve a good muting!
 
-> 📌 **Note:**  If you're playing a 2 or 3 note powerchord with a root on the 5th string, you'll need to additionally mute the low `E` string (unless you're playing an `E5` power chord, because then you end up doubling up the root note). You can use your thumb to mute the low `E`, as you might do when playing open chords 
+> 📌 **Note:**  If you're playing a 2 or 3 note powerchord with a root on the 5th string, you'll need to additionally mute the low `E` string (unless you're playing an `E5` power chord, because then you end up doubling up the root note). You can use your thumb to mute the low `E`, or the tip of your index finger
 
 <br/><br/>
 
@@ -116,27 +116,12 @@ You might be wondering whether you need to bother learning all 3 power chord str
 I would say that it's worth learning all 3 approaches, and learning when to deploy one over the other. Some points are provided below:
 
 - The 2 and 3 string versions of the power chord are easiest to move around the neck at great speed. If you're playing fast metal, you probably want to use one of these approaches (check out a tab of _Iron Man_ by Black Sabbath. This would be hard to play with fret barring)
-- The added `F` for the 3 note approach makes the chord sound a bit "fuller" when compared to the 2 string approach. If your guitar is drowning in distortion, you might not notice the difference. OWN OPINION, VALIDATE THIS
-- The barre chord approach is a bit more forgiving to accidentally hitting strings outside the power chord. If you're playing a 3 note power chord with the root on the 6th string, then hitting strings 3, 2 and 1 probably won't sound good. If you're playing the 2 note power chord with the root on the fifth string, then hitting strings 6, 3, 2 or 1 probably won't sound good. Returning to our earlier `F5` chord example: if you're playing an `F5` chord by barring the first fret, and you get a bit carried a way and hit all 6 strings, strings 1 and 2 will sound good because they are within the power chord (`F` and `C` notes). It's only the `G#` on the 3rd string that causes issues, and only quite a minor issue, at that.
+- The added `F` for the 3 note approach makes the chord sound slightly different! Try moving quickly between the same power chord, played with 2 notes vs 3. **NOTE**: if your guitar is drowning in distortion, you might not notice a difference.
+- If you're using the barre chord strategy and playing a power chord with the root note on the 5th string, then you don't need to mute the 6th string. This is because the barring finger on the 6th string will be fretting another instance of the the 5th interval note. Returning to our earlier `A#` power chord example, the barring finger will be placed over the first fret, giving us `A#` on the 5th string (the root) **and also the 5th interval `F` on the 6th string**. Playing a power chord this way produces a nice full sound.
 - You cannot fully escape the barring technique, you'll need it to play "proper" barre chords as you learn more songs. Might as well embrace it :)
 
 
 Tip: an alternative strategy for dealing with accidental hitting of unwanted strings is to employ _string muting_: lightly placing a finger over unwanted strings, pre-emptively avoiding unwanted muddying of power chords by muting the sound these strings would make. This is particularly effective when playing power chords with roots on the 5th string - you can use your thumb, or the tip of your index finger to lightly press against the unwanted 6th string. 
 
 
-VERIFY STRING MUTING WITH SIDE OF HAND WHEN PLAYING NON-BARRE POWER CHORDS
 
-
-
-GET NORE
-
-
-
-
-
-
-
-
-Following this page: https://www.guitarnoise.com/guide/power-chords/
-
-.. highlight 2 note playing, 3 note playing, then playing by barring first fret
