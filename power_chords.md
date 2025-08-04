@@ -97,9 +97,9 @@ This also means that, strictly speaking, you don't need to properly fret with yo
 
 > 📌 **Note:**  If you're playing a power chord rooted on the the 5th string with the barre technique, you need to hit strings 4, 3, 2, **and you can additionally hit string 6**. The reason for this is described in the next section.
 
-### :brain: Tips for barre chord approaches to power chords (and barre chords, in general)
-
 <br/><br/>
+
+### :brain: Tips for barre chord approaches to power chords (and barre chords, in general)
 
 The barring technique is particularly tricky for new players. You will need a bit of trial and error to find the hand position that works well for you, and will probably need a bit of finger sterengthening too (unles you're an avid rock climber). Some general tips are:
 
