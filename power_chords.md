@@ -4,15 +4,14 @@
 
 Power chords are simple, two-note chords often used in rock, punk, and metal music. They are easy to play and sound strong, even with distortion. 
 
-Loads of very recongisable guitar riffs are written entirely with power chords, including:
+Loads of very recongisable guitar riffs are played with power chords, including:
 
 - **_Smells Like Teen Spirit_ – Nirvana**
 - **_American Idiot_ – Green Day**
 - **_All the Small Things_ – Blink-182**
 - **_Iron Man_ – Black Sabbath**
 - **_Blitzkrieg Bop_ – Ramones**
-- **_Seven Nation Army_ – The White Stripes** (main riff can be played with power chords)
-
+- **_Seven Nation Army_ – The White Stripes** 
 <br/><br/>
 
 
