@@ -69,7 +69,7 @@ The trick to string muting is getting the pressure right - too little, and the o
 
 If playing a power chord using either the 2 or 3 note strategies, then your index finger will be lightly touching strings 1, 2 and 3. In other words, you only need to re-adjust the natural power chord hand positioning very slightly in order to achieve a good muting!
 
-> 📌 **Note:**  If you're playing a 2 or 3 note powerchord with a root on the 5th string, you'll need to additionally mute the low `E` string (unless you're playing an `E5` power chord, because then you end up doubling up the root note). You can use your thumb to mute the low `E`, or the tip of your index finger
+> 📌 **Note:**  If you're playing a 2 or 3 note powerchord with a root on the 5th string, you'll need to mute the low `E` string (unless you're playing an `E5` power chord, because then you end up doubling up the root note) and **not** mute the 3rd string. You can use your thumb to mute the low `E`, or the tip of your index finger
 
 <br/><br/>
 
