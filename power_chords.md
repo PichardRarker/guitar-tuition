@@ -86,7 +86,7 @@ Yet another strategy for playing power chords involves _barring_ the fret contai
 <br/><br/>
 
 
-### Are power chords played this way barre chords?
+### ❓Are power chords played this way barre chords?
 
 Sort of. Returning to our `F5` example - when you play a power chord using this approach, it's only technically a power chord if you hit the 6th, 5th and 4th strings. If you strum all 6 strings you'll find it makes a pleasant sound, but this is no longer a power chord - you're playing a minor chord using the barring technique. 
 
