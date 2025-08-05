@@ -1,0 +1,18 @@
+{
+    "name": "My guitar-tuition Container",
+    "image": "ubuntu:22.04",
+    "workspaceFolder": "/workspaces",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces,type=bind",
+    "customizations": {
+        "vscode": {
+            "extensions": ["shd101wyy.markdown-preview-enhanced"],
+            "settings": {
+                "terminal.integrated.shell.linux": "/usr/bin/bash",
+                "python.defaultInterpreterPath": "/usr/bin/python3",
+                "[markdown]": {
+                    "editor.formatOnSave": true
+                }
+            }
+        }
+    }
+}
