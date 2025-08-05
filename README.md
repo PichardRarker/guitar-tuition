@@ -21,7 +21,6 @@ Rich
 * `Tuning pegs`: make sure to tune your guitar whenever you play. Just because you left it in tune, doesn’t mean it will still be in tune when you next pick it up.
 * `Strings`: these need changing every once in a while. When you’re starting out, you don’t need to change them that frequently (maybe once every 6 months, assuming you play regularly and don’t accidentally break any of them). With more playing time, you might notice that old strings sound a bit dull compared to new ones.
 * `Pickup selector`: experiment with moving the selector back and forth when playing. See if you can notice a difference. Typically the neck pickup (the one closest to the neck) sounds warmer and more bass-heavy, whereas the bridge pickup (closest one to the bridge) sounds bright and treble-heavy.
-<br/><br/>
 
 ## 🎵: Musical notes
 
@@ -29,11 +28,9 @@ Rich
 
 Musical notes are the building blocks of music. The standard musical notes are named using the first seven letters of the alphabet:
 
-<br/><br/>
 <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/81e040d7-2a9f-44c7-a4d6-0fe54810a01f" />
-<br/><br/>
+
 > 💡 **Tip:** These notes repeat in a higher or lower pitch, known as octaves. In other words,  the note `A` can be found in multiple octaves on a guitar (and so can `B`, `C`, `D`…).
-<br/><br/>
 
 ### 🔪🥿 Sharps and flats
 
@@ -44,12 +41,11 @@ In addition to the natural notes, there are sharps (`♯`) and flats (`♭`):
 > 💡 **Tip:** Sharps and flats overlap. `A sharp` (`A#`) and `B flat` (`B♭`) are exactly the same note.
 
 > ❗ **Important:** `B` and `E` don’t have sharps (or, equivalently, `C` and `F` don’t have flats).
-<br/><br/>
+
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/01ced209-426b-4fd0-a307-e5715dcf1e68" />
 
 > 📌 **Note:** **You don’t need to start memorising where the notes are when you’re first starting out!** Basic guitar playing can be done by learning hand patterns, rather than memorising notes. If you want to improvise lead guitar lines, it’s a different story…
 
-<br/><br/>
 ## 🧶: Strings
 
 The vast majority of guitar music uses a standard tuning pattern. The tuning of a string = the note it makes when you play the string without pressing down on any fret:
@@ -67,14 +63,12 @@ The vast majority of guitar music uses a standard tuning pattern. The tuning of 
 >   - **A**fter  
 >   - **E**ight
 
-<br/><br/>
 
 
 > 📌 **Note:** perhaps counter-intuitively, the first string (a.k.a the high `E` string) is the one at the bottom of the guitar. In guitar tablature (see later on in this doc), the first string is depicted as being at the top of the diagram. Think of it as being first because it has the highest pitch.
-<br/><br/>
+
 
 Many non-standard tunings exist. These can be ignored when you’re starting out (unless you’re massively into metal and want to ignore every other genre).
-<br/><br/>
 
 ## 🎸: Frets
 
@@ -91,11 +85,10 @@ Every fret is made up of 2 fret markers, except for the first fret, which is mad
 <br/><br/>
 <br/><br/>
 
-> ❗ **Important:** **You absolutely don’t need to memorise the notes at this stage, this is purely scene-setting information**
+> ❗ **Important:** You absolutely don’t need to memorise the notes at this stage! This is purely scene-setting information
 
 > 📌 **Note:** Recall that the high `E` string is shown at the top of the diagram, even though it’s at the bottom of the guitar.
 
-<br/><br/>
 ## 🎼: Chords
 
 A chord is simply a group of notes played together, creating a harmonious sound.
@@ -108,17 +101,15 @@ On a keyboard, you would press down 3 notes to make a basic chord. On a guitar, 
 
 > ❓how do we know the chords that make up a scale? That comes later!
 
-<br/><br/>
 ### 🙂☹️ Major and minor?
 
 Each chord has a major and a minor variant. Put simply, major chords sound happy, and minor chords sound sad. If you see a chord written just like `C`, it typically means `C Major`. Minor chords are denoted like `Cm` or `Cminor`.
-<br/><br/>
 ### 🎶: How many notes?
 
 A chord has a minimum of 3 notes. If you play 2 nice-sounding notes together, you have a dyad (sometimes called a double-stop on guitar).
 
 > 📌 **Note:** Some chords have more than 3 notes (e.g., `7th chords` and `9th chords`. These we will ignore for now).
-<br/><br/>
+
 ### ❓: When I see people strumming chords, it looks like they’re playing more than 3 notes at a time…
 
 Often a guitarist might be playing all 6 strings when strumming a chord, but they’re still only hitting 3 distinct notes. They will be hitting duplicate notes as they play. Take the `CMajor` chord for example, which is made up of `C`, `E` and `G` notes (see above). If you do the standard `C Major` open chord shape (described below) on guitar, then you’re playing:
@@ -129,7 +120,6 @@ Often a guitarist might be playing all 6 strings when strumming a chord, but the
 * 3rd string (`G` string): `G` (open string)
 * 2nd string (`B` string): `C` (1st fret)
 * 1st string (high `E` string): `E` (open string)
-<br/><br/>
 
 ## 🌐: Chord diagrams
 
@@ -144,15 +134,13 @@ Chords are often taught to guitarists using diagrams like this:
 > * When presented with diagrams that show the guitar rotated 90 degrees (as above), the high `E` string = furthest on the right. If “right way up”, then these diagrams essentially mirror the guitar you’re holding, and so the high `E` string is at the bottom (so sometimes the high `E` string is at the top, and sometimes it’s at the bottom of the diagram. Confusing, I know).
 > * In addition to the fretting instructions, the diagrams above show symbols next to the nut. `X` symbols indicate that the string should be muted or not played (string muting is a technique not covered in this doc). `0` symbols indicate strings should be played without any fretting (played open).
 
-<br/><br/>
 ## 🗺️: Tablature
 
 
 Guitar tablature ("tabs”) is a form of musical notation specifically designed for guitarists. Unlike traditional sheet music, which uses staff notation, tabs use a series of horizontal lines representing the guitar strings. Numbers on these lines indicate the frets where the player should place their fingers.
 You can quite happily survive as a guitarist without ever learning proper musical notation (I can’t read sheet music, and have no intention on learning).
-<br/><br/>
 > 💡 **Tip:** Guitar tab is more flexible than chord diagrams – it can be used to represent chords, but also sequences of notes (riffs). 
-<br/><br/>
+
 
 
 ### Example #1
@@ -177,7 +165,6 @@ This particular tab represents a single strum of an `E minor` chord, to `G Major
 
 
 This tab shows the opening riff of *Daytripper* by The Beatles. We’re now dealing with single notes, not chords. 
-<br/><br/>
 
 ## 🔊: Electric guitar amp effects
 
@@ -186,7 +173,6 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 * `Distortion` – a sound effect that makes your guitar tone grittier and more aggressive. It happens when the guitar signal is intentionally "clipped"—meaning the sound wave gets squashed and pushed beyond its normal limit. Distortion may be achieved through a dedicated switch on your amp, or through a `distortion pedal`, bought separately and added into your signal chain between the guitar and amplifier.
 * `Bass`, `mids` and `treble`: the sound you make with an electric guitar is actually a mixture of different frequencies. Your amplifier will have dials that can selectively amplify the low frequencies (bass), high frequencies (treble) and those in the middle. Try playing round with different settings for these dials. A good starting point is setting everything to the 12 o’clock position. You can also find settings for your favourite songs online.
 
-<br/><br/>
 ## 🛹: General tips/tricks when starting out
 
 * The fingers on your fretting hand are going to really hurt at first. That’s normal. It gets better quite quickly, I promise. With a bit of exposure, your fingertips start to develop calluses (thickened skin). If the pain is really bothering you, consider putting some tape on the ends of your fingers.
@@ -198,7 +184,7 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 * Some people develop an irrational fear of strings snapping and whipping their arms/hands. You will eventually break a string, but there’s an incredibly miniscule chance it’s going to cause you any damage. In 20+ years a string has never caused me any damage.
 * You don’t need to devote loads and loads of time to mastering the basics. One of the reasons guitars are so popular to learn is that you can start to sound good relatively quickly. Consistency is key – practice little and often, keeping up the momentum.
 
-<br/><br/>
+
 ## 💡: Resources I've found useful
 
 * [MartyMusic](https://www.youtube.com/@MartyMusic) (YouTube) – nice guy with some great beginner-friendly song tabs and technique videos.
@@ -208,7 +194,7 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 * Google metronome – Google has an in-built metronome, if you want to practice playing in time (strongly recommend that you do this!).
 * [Reverb.com](https://reverb.com/uk) – basically eBay for musicians. Great for picking up second-hand gear at a reduced price.
 
-<br/><br/>
+
 ## ⚙️: Beginner's gear
 
 * `Plectrum` (or pick) – small bit of plastic you use to hit the strings. Some guitarists just use their fingers, but it’s good to experiment with playing with a pick to see what you prefer. Picks come in a variety of thicknesses, to suit different styles and personal preferences. Just buy a variety pack to see what you like – they aren’t expensive.
@@ -216,7 +202,6 @@ This is a very big topic, so we’re only going to cover the absolute basics her
 * `Capo` – a small plastic or metal clamp that effectively moves the guitar nut up the neck, creating a different tuning without touching your tuning pegs. Many popular songs require a capo to play them properly (you aren’t going to impress your friends with a rendition of *Wonderwall* without a capo on your second fret).
 * If you live in London (and if you read this, you probably do), check out Denmark Street, otherwise known as Tin Pan Alley, near to Tottenham Court road. An entire street filled with music shops (mostly devoted to guitar). Great for inspiration and for sourcing cheap gear (or for dropping £30k on a 1950s Fender Stratocaster).
 
-<br/><br/>
 ## 🏃: Next steps
 
 There’s loads not covered in this doc, and many helpful beginner tips are not easy to convey on paper. For example, picking hand position, subtle positioning of the fretting hand fingers to avoid accidental muting of strings when playing chords, taming distortion, etc). Some of these concepts (e.g., hand position) don’t have a right or wrong answer, and it’s up to you to do some exploring and see what you prefer. It’s also good practice to pay close attention to how others play, especially if they play music you want to learn. Of course, these things can also be discussed in face-to-face lessons!
