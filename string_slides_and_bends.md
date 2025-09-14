@@ -20,6 +20,8 @@ TODO: sort glissando vs legato confusion
 
 ## :musical_note: Notation
 
+### String sliding notation is straightforward
+
 In guitar tablature, slides are typically notated using the symbols `/` for sliding up and `\` for sliding down between notes.
 
 This notation shows a slide _up_ from the 5th fret to the 7th fret on the 6th string (picking only the 5th string note):
@@ -30,3 +32,13 @@ This notation shows a slide _up_ from the 5th fret to the 7th fret on the 6th st
 Same thing, rendered as simple text:
 
 <img width="250" height="239" alt="image" src="https://github.com/user-attachments/assets/07ba0abd-a4f8-435c-83e8-051838cf08c8" />
+
+And here's notation for a slide _down_ from the 7th fret to the 5th fret on the 6th string:
+
+<img width="682" height="254" alt="image" src="https://github.com/user-attachments/assets/e8fad5b9-d863-492b-a2ae-53ea6a9ad5a5" />
+
+
+### String bending notation is a bit more complex...
+
+
+
