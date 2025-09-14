@@ -59,6 +59,13 @@ Reading left to right, once again we're starting by plucking the `D` note (7th f
 > 💡 **Tip:** If we were representing the full tone bend using the previous notation method, it would look something like this: `----7----(9)`, as the 9th fret on the 3rd string is an `E` note
 
 
+## Technique: bending (single string)
+
+Trying to comprehensively teach string bending over text is a fool's errand. Check out this [very comprehensive string bending guide](https://youtu.be/fgDY8k0Gjzc?si=5eelEkprmmQxU9gS) from the excellent `JustinGuitar` YouTube channel.
+
+
+
+
 
 
 
