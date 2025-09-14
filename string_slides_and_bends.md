@@ -47,6 +47,8 @@ There are different strategies for representing string bending on paper. One app
 .. So above the tab instructs us to pick the note on the 3rd string of the 7th fret, then bend the note until the pitch matches the note on the 8th fret (same string). To describe this in musical notes, we're starting by picking a `D` note (7th fret, 3rd string), then bending the string to elevate the pitch to a `D#` (3rd string 7th fret). 
 
 
+> 💡 **Tip:** The above bend represents a change in pitch of one semitone (`D` to `D#`, so it's a **semi tone bend**
+
 
 
 
