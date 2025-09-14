@@ -44,11 +44,19 @@ There are different strategies for representing string bending on paper. One app
 
 <img width="556" height="251" alt="image" src="https://github.com/user-attachments/assets/b3ebeb0f-eba2-49d0-a051-ea9c2ec0ecc5" />
 
-.. So above the tab instructs us to pick the note on the 3rd string of the 7th fret, then bend the note until the pitch matches the note on the 8th fret (same string). To describe this in musical notes, we're starting by picking a `D` note (7th fret, 3rd string), then bending the string to elevate the pitch to a `D#` (3rd string 7th fret). 
+.. So above the tab instructs us to pick the note on the 3rd string of the 7th fret, then bend the note until the pitch matches the note on the 8th fret (same string). To describe this in musical notes, we're starting by picking a `D` note (7th fret, 3rd string, assuming standard tuning), then bending the string to elevate the pitch to a `D#` (the same note as playing 3rd string 8th fret). The above tab also includes the superscript **BU** label (_bend up_), but some tabs may not include this.
 
 
 > 💡 **Tip:** The above bend represents a change in pitch of one semitone (`D` to `D#`, so it's a **semi tone bend**
 
+
+Sometimes arrows are used to represent bending:
+
+<img width="686" height="214" alt="image" src="https://github.com/user-attachments/assets/a1d33fbb-4028-45d4-8098-de28dc779951" />
+
+Reading left to right, once again we're starting by plucking the `D` note (7th fret, first string). The first bend represents a **full tone bend**, which would be `D` to `E` (jumping over the `D#` inbetween). The `full` label above the string bend tells us how much we're bending the string by. For the next bend (once again starting with the `D` on the 3rd string) we're only bending up a **semi tone** to `D#` (as indicated by the `1/2` label)
+
+> 💡 **Tip:** If we were representing the full tone bend using the previous notation method, it would look something like this: `----7----(9)`, as the 9th fret on the 3rd string is an `E` note
 
 
 
