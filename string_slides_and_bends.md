@@ -10,6 +10,7 @@ Both techniques involve smoothly changing the pitch of a note without re-picking
 ## :book: Terminology
 
 * **String bending**: technique where the player pushes or (less commonly) pulls a string to raise its pitch. The push/pull is done in the up/down axis (i.e., towards the ceiling or towards the floor), without moving to a different fret. The amount of bend determines how much the pitch changes. Commonly, players will pick a string once, then execute one (or multiple) bends, creating a **legato** sound
+* **Releasing a bend**: returning a bent note back to its original pitch after you’ve bent it up. It’s the opposite of the initial bend motion
 * **String slide**: where the player picks a note and then moves the fretting finger up or down the neck to a different fret without lifting it off the string. This creates a smooth, continuous change in pitch and a connected, legato sound. As you might expect, short slides have a different "feel" to long slides.
 * **Legato**:  musical term meaning "smooth and connected." On guitar, legato refers to playing notes in a way that they flow together without noticeable breaks, often using techniques like slides, bends, hammer-ons, and pull-offs instead of picking each note individually. Hammer-ons and pull-offs are discussed in a separate guide.
 * **Glissando**: a musical term for a continuous slide upward or downward between two notes. On guitar, a glissando is typically performed by sliding the fretting finger along the string from one fret to another, creating a smooth transition in pitch. Both string slides and certain types of bends can produce a glissando effect, as they allow the pitch to change seamlessly without re-picking the string.
@@ -81,9 +82,12 @@ It's a good idea to practice both string bending and sliding at the same time. T
 First, execute a string slide on the 3rd string of the 5th fret. In one single slide (picking the string only once), slide up to the 7th fret, then back down to the 5th fret
 
 
-> 💡 **Tip:** The amount of force you need to exert to achieve the correct change in pitch when bending a string will change subtly between guitars. This is due to differing string tensions, arising from different gauges of string, or possibly due to differences in how the two guitars are set up. If you jump between different guitars, expect to have to subtly re-calibrate your string bend-ometer). 
 
 <img width="224" height="164" alt="image" src="https://github.com/user-attachments/assets/07c5bb64-3b58-4c93-a7bf-032e86f01620" />
+
+
+
+> 💡 **Tip:** The amount of force you need to exert to achieve the correct change in pitch when bending a string will change subtly between guitars. This is due to differing string tensions, arising from different gauges of string, or possibly due to differences in how the two guitars are set up. If you jump between different guitars, expect to have to subtly re-calibrate your string bend-ometer). 
 
 
 
