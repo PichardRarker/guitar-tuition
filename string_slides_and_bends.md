@@ -65,7 +65,7 @@ Using simple text notation:
 
 <img width="173" height="163" alt="image" src="https://github.com/user-attachments/assets/f4582de1-784b-49b7-8183-562cf8720f70" />
 
-... the above represents a bend up from the note of the 5th fret 3rd string (`C`) to the note we'd get if we played the same string on the 7th fret (`D`), followed by a _release_ back down to the original pitch. 
+... the above represents a bend up from the note of the 5th fret 3rd string (`C`) to the note we'd get if we played the same string on the 7th fret (`D`), followed by a _release_ back down to the original pitch (`C`). 
 
 ## :hammer_and_wrench: Technique: bending (single string)
 
@@ -88,9 +88,15 @@ It's a good idea to practice both string bending and sliding at the same time. T
 First, execute a string slide on the 3rd string of the 5th fret. In one single slide (picking the string only once), slide up to the 7th fret, then back down to the 5th fret
 
 
-
 <img width="224" height="164" alt="image" src="https://github.com/user-attachments/assets/07c5bb64-3b58-4c93-a7bf-032e86f01620" />
 
+
+After doing this, perform a string bend and release, also on the 5th fret 3rd string, and also targeting the pitch of the 7th fret 3rd string:
+
+<img width="168" height="159" alt="image" src="https://github.com/user-attachments/assets/639a72ca-30e3-44a3-8a74-15802575698d" />
+
+
+**Why practice these together?** if executed correctly, the bend should sound quite similar to the slide. For both of these executions, the middle note in the sequence should be a `D`. If the string bend sounds a bit off, it's probably because you're bending too far/not bending enough. Practicing bends alongside an equivalent slide up/down can help you master the ability to bend strings the correct amount.
 
 
 > 💡 **Tip:** The amount of force you need to exert to achieve the correct change in pitch when bending a string will change subtly between guitars. This is due to differing string tensions, arising from different gauges of string, or possibly due to differences in how the two guitars are set up. If you jump between different guitars, expect to have to subtly re-calibrate your string bend-ometer). 
