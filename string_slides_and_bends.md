@@ -111,7 +111,7 @@ So far we've only covered bends and slides on single strings. Both techniques ca
 
 ### Double-stop bends
 
-This technique involves bending a string up a full tone or semi tone, _and also bending up the note directly above or below that string to the same degree_:
+This technique involves bending a string up a full tone or semi tone, _and also bending up the string directly above or below to the same degree_:
 
 
 <img width="244" height="156" alt="image" src="https://github.com/user-attachments/assets/a19f47a5-8127-4a4a-a486-c7d248dd8a7a" />
