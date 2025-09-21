@@ -77,7 +77,7 @@ Pick a string and decide on a starting note. Fret the note, then pick the string
 
 Begin with short slides (like fret 5 → fret 7). Once comfortable, try longer ones (like fret 3 → fret 10) for a more dramatic effect.
 
-For a comprehensive video guide, check out [this YouTube video](https://www.youtube.com/watch?v=8zrfn-Qc3VQ)
+For a video guide, check out [this YouTube link](https://www.youtube.com/watch?v=8zrfn-Qc3VQ)
 
 ## :muscle: Exercise: practicing string bends and slides together
 
