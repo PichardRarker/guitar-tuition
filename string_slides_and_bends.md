@@ -29,7 +29,7 @@ In guitar tablature, slides are typically notated using the symbols `/` for slid
 This notation shows a slide _up_ from the 5th fret to the 7th fret on the 6th string (picking only the 5th string note):
 
 
-<img width="703" height="234" alt="image" src="https://github.com/user-attachments/assets/57f497f3-1b8e-4d54-8469-74d37c7af8a6" />
+<img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/57f497f3-1b8e-4d54-8469-74d37c7af8a6" />
 
 Same thing, rendered as simple text:
 
@@ -37,14 +37,14 @@ Same thing, rendered as simple text:
 
 And here's notation for a slide _down_ from the 7th fret to the 5th fret on the 6th string:
 
-<img width="682" height="254" alt="image" src="https://github.com/user-attachments/assets/e8fad5b9-d863-492b-a2ae-53ea6a9ad5a5" />
+<img width="300" height="125" alt="image" src="https://github.com/user-attachments/assets/e8fad5b9-d863-492b-a2ae-53ea6a9ad5a5" />
 
 
 ### :confused: String bending notation is a bit more complex...
 
 There are different strategies for representing string bending on paper. One apprach is to write down the starting note (the note that's picked), then add the note that we're bend up to in brackets alongside:
 
-<img width="556" height="251" alt="image" src="https://github.com/user-attachments/assets/b3ebeb0f-eba2-49d0-a051-ea9c2ec0ecc5" />
+<img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/b3ebeb0f-eba2-49d0-a051-ea9c2ec0ecc5" />
 
 .. So above the tab instructs us to pick the note on the 3rd string of the 7th fret, then bend the note until the pitch matches the note on the 8th fret (same string). To describe this in musical notes, we're starting by picking a `D` note (7th fret, 3rd string, assuming standard tuning), then bending the string to elevate the pitch to a `D#` (the same note as playing 3rd string 8th fret). The above tab also includes the superscript **BU** label (_bend up_), but some tabs may not include this.
 
@@ -54,7 +54,7 @@ There are different strategies for representing string bending on paper. One app
 
 Sometimes arrows are used to represent bending:
 
-<img width="686" height="214" alt="image" src="https://github.com/user-attachments/assets/a1d33fbb-4028-45d4-8098-de28dc779951" />
+<img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/a1d33fbb-4028-45d4-8098-de28dc779951" />
 
 Reading left to right, once again we're starting by plucking the `D` note (7th fret, first string). The first bend represents a **full tone bend**, which would be `D` to `E` (jumping over the `D#` inbetween). The `full` label above the string bend tells us how much we're bending the string by. For the next bend (once again starting with the `D` on the 3rd string) we're only bending up a **semi tone** to `D#` (as indicated by the `1/2` label)
 
