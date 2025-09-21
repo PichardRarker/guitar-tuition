@@ -60,17 +60,30 @@ Reading left to right, once again we're starting by plucking the `D` note (7th f
 > 💡 **Tip:** If we were representing the full tone bend using the previous notation method, it would look something like this: `----7----(9)`, as the 9th fret on the 3rd string is an `E` note
 
 
-## Technique: bending (single string)
+## :hammer_and_wrench: Technique: bending (single string)
 
 Trying to comprehensively teach string bending over text is a fool's errand. Check out this [very comprehensive string bending guide](https://youtu.be/fgDY8k0Gjzc?si=5eelEkprmmQxU9gS) from the excellent `JustinGuitar` YouTube channel.
 
-## Technique: sliding (single string)
+## :hammer_and_wrench: Technique: sliding (single string)
 
 Pick a string and decide on a starting note. Fret the note, then pick the string so the note rings out clearly. Without lifting your finger, push or pull your finger up or down the neck to your target fret (for example, from the 5th fret to the 7th fret). Maintain finger pressure as you move, so the sound stays connected. Once you reach the target fret, let the note ring out.
 
 Begin with short slides (like fret 5 → fret 7). Once comfortable, try longer ones (like fret 3 → fret 10) for a more dramatic effect.
 
 For a comprehensive video guide, check out [this YouTube video](https://www.youtube.com/watch?v=8zrfn-Qc3VQ)
+
+## :muscle: Exercise: practicing string bends and slides together
+
+Recall that at the start of this guide, it is highlighted that both bending and sliding are techniques for changing the pitch of a note without re-picking the string. String bends are tricky at first, as you need to develop and intuitive "feel" for how far to bend the string up/down to achieve the appropriate change in pitch (full tone, semi tone, or even two tone if you're feeling incredibly brave). String slides, on the other hand, are a bit more straightforward (as long as you start in one fret and end up in another fret, your notes will sound good!). 
+
+It's a good idea to practice both string bending and sliding at the same time. The main benefit of this is that you can use the string sliding exercise to judge whether or not you are applying the correct amount of pressure when executing a bend. 
+
+First, execute a string slide on the 3rd string of the 5th fret. In one single slide (picking the string only once), slide up to the 7th fret, then back down to the 5th fret
+
+
+> 💡 **Tip:** The amount of force you need to exert to achieve the correct change in pitch when bending a string will change subtly between guitars. This is due to differing string tensions, arising from different gauges of string, or possibly due to differences in how the two guitars are set up. If you jump between different guitars, expect to have to subtly re-calibrate your string bend-ometer). 
+
+<img width="224" height="164" alt="image" src="https://github.com/user-attachments/assets/07c5bb64-3b58-4c93-a7bf-032e86f01620" />
 
 
 
