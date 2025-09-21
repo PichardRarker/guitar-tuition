@@ -116,6 +116,8 @@ This technique involves bending a string up a full tone or semi tone, _and also 
 
 <img width="244" height="156" alt="image" src="https://github.com/user-attachments/assets/a19f47a5-8127-4a4a-a486-c7d248dd8a7a" />
 
+Here we see both the 2nd and 3rd strings on the 9th fret bending up a semi tone, before being released back down to the original pitch. You can apply pressure to the 2 strings by fretting them each individually with 2 separate fingers, or by using the _barring_ technique (as covered in the power chords guide) to fret both notes with a single finger. Be warned: these bends require some extra strength!
+
 
 
 
