@@ -9,7 +9,7 @@ Both techniques involve smoothly changing the pitch of a note without re-picking
 
 ## :book: Terminology
 
-* **String bending**: technique where the player pushes or (less commonly) pulls a string to raise its pitch. The push/pull is done in the up/down axis (i.e., towards the ceiling or towards the floor), without moving to a different fret. The amount of bend determines how much the pitch changes. Commonly, players will pick a string once, then execute one (or multiple) bends, creating a **legato** sound
+* **String bending**: technique where the player pushes or (less commonly) pulls a string to raise its pitch. The push/pull is done in the up/down axis (i.e., up towards the ceiling or down towards the floor), without moving to a different fret. The amount of bend determines how much the pitch changes. Commonly, players will pick a string once, then execute one (or multiple) bends, creating a **legato** sound
 * **Releasing a bend**: returning a bent note back to its original pitch after you’ve bent it up. It’s the opposite of the initial bend motion
 * **String slide**: where the player picks a note and then moves the fretting finger up or down the neck to a different fret without lifting it off the string. This creates a smooth, continuous change in pitch and a connected, legato sound. As you might expect, short slides have a different "feel" to long slides.
 * **Legato**:  musical term meaning "smooth and connected." On guitar, legato refers to playing notes in a way that they flow together without noticeable breaks, often using techniques like slides, bends, hammer-ons, and pull-offs instead of picking each note individually. Hammer-ons and pull-offs are discussed in a separate guide.
