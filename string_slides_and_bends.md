@@ -124,9 +124,15 @@ You can probably guess what this is - a technique where you slide two or more no
 
 <img width="177" height="121" alt="image" src="https://github.com/user-attachments/assets/a352940c-7fa3-4ba0-be3c-bce8f3a90cf7" />
 
+### Unison bends
 
+This bending technique involves 2 strings, _but only one of the strings undergoes bending_. Unison bending is a guitar technique where you bend one string so that its pitch matches the pitch of another string played simultaneously. Unlike a regular multi-string bend, where each string bends to a different target note (creating a harmony), a unison bend is all about making two notes converge to the same pitch:
 
+<img width="1162" height="393" alt="image" src="https://github.com/user-attachments/assets/e6e87ca4-f492-4a72-b5aa-29d4f8c5c423" />
 
+In the above tab, notice how the bend notation is only directed at the note on the 2nd string. In other words, the note on the first string is played, but no bending occurs. For each of the 6 examples, the bend on the second string will produce the same note as is played on the first string. For example, in the first part of the tab, the 2nd string 8th fret and 1st string 5th fret are strummed together, playing `G` (2nd string) and `A` (first string). By bending the 2nd string up a full tone, we then get a second `A`!
+
+Examples of unison bends can be seen [in this video](https://www.youtube.com/watch?v=KtOBJtMuE80)
 
 
 
