@@ -63,6 +63,15 @@ Reading left to right, once again we're starting by plucking the `D` note (7th f
 
 Trying to comprehensively teach string bending over text is a fool's errand. Check out this [very comprehensive string bending guide](https://youtu.be/fgDY8k0Gjzc?si=5eelEkprmmQxU9gS) from the excellent `JustinGuitar` YouTube channel.
 
+## Technique: sliding (single string)
+
+Pick a string and decide on a starting note. Fret the note, then pick the string so the note rings out clearly. Without lifting your finger, push or pull your finger up or down the neck to your target fret (for example, from the 5th fret to the 7th fret). Maintain finger pressure as you move, so the sound stays connected. Once you reach the target fret, let the note ring out.
+
+Begin with short slides (like fret 5 → fret 7). Once comfortable, try longer ones (like fret 3 → fret 10) for a more dramatic effect.
+For a comprehensive video guide, check out [this YouTube video](https://www.youtube.com/watch?v=8zrfn-Qc3VQ)
+
+
+
 
 
 
