@@ -114,7 +114,7 @@ So far we've only covered bends and slides on single strings. Both techniques ca
 This technique involves bending a string up a full tone or semi tone, _and also bending up the note directly above or below that string to the same degree_:
 
 
-<img width="492" height="177" alt="image" src="https://github.com/user-attachments/assets/6e3b9b87-5fb9-4849-acda-8d1351d4d1b0" />
+<img width="244" height="156" alt="image" src="https://github.com/user-attachments/assets/a19f47a5-8127-4a4a-a486-c7d248dd8a7a" />
 
 
 
