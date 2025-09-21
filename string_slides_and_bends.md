@@ -81,7 +81,7 @@ For a video guide, check out [this YouTube link](https://www.youtube.com/watch?v
 
 ## :muscle: Exercise: practicing string bends and slides together
 
-Recall that at the start of this guide, it is highlighted that both bending and sliding are techniques for changing the pitch of a note without re-picking the string. String bends are tricky at first, as you need to develop and intuitive "feel" for how far to bend the string up/down to achieve the appropriate change in pitch (full tone, semi tone, or even two tone if you're feeling incredibly brave). String slides, on the other hand, are a bit more straightforward (as long as you start in one fret and end up in another fret, your notes will sound good!). 
+Recall from the beginning of this guide that both bending and sliding are techniques for changing the pitch of a note without re-picking the string. String bends are tricky at first, as you need to develop and intuitive "feel" for how far to bend the string up/down to achieve the appropriate change in pitch (full tone, semi tone, or even two tone if you're feeling incredibly brave). String slides, on the other hand, are a bit more straightforward (as long as you start in one fret and end up in another fret, your notes will sound good!). 
 
 It's a good idea to practice both string bending and sliding at the same time. The main benefit of this is that you can use the string sliding exercise to judge whether or not you are applying the correct amount of pressure when executing a bend. 
 
