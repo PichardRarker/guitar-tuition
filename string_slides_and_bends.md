@@ -61,6 +61,12 @@ Reading left to right, once again we're starting by plucking the `D` note (7th f
 > 💡 **Tip:** If we were representing the full tone bend using the previous notation method, it would look something like this: `----7----(9)`, as the 9th fret on the 3rd string is an `E` note
 
 
+Using simple text notation:
+
+<img width="173" height="163" alt="image" src="https://github.com/user-attachments/assets/f4582de1-784b-49b7-8183-562cf8720f70" />
+
+... the above represents a bend up from the note of the 5th fret 3rd string (`C`) to the note we'd get if we played the same string on the 7th fret (`D`), followed by a _release_ back down to the original pitch. 
+
 ## :hammer_and_wrench: Technique: bending (single string)
 
 Trying to comprehensively teach string bending over text is a fool's errand. Check out this [very comprehensive string bending guide](https://youtu.be/fgDY8k0Gjzc?si=5eelEkprmmQxU9gS) from the excellent `JustinGuitar` YouTube channel.
