@@ -99,7 +99,7 @@ After doing this, perform a string bend and release, also on the 5th fret 3rd st
 **Why practice these together?** if executed correctly, the bend should sound quite similar to the slide. For both of these executions, the middle note in the sequence should be a `D`. If the string bend sounds a bit off, it's probably because you're bending too far/not bending enough. Practicing bends alongside an equivalent slide up/down can help you master the ability to bend strings the correct amount.
 
 
-> 💡 **Tip:** The amount of force you need to exert to achieve the correct change in pitch when bending a string will change subtly between guitars. This is due to differing string tensions, arising from different gauges of string, or possibly due to differences in how the two guitars are set up. If you jump between different guitars, expect to have to subtly re-calibrate your string bend-ometer).
+> 💡 **Tip:** The amount of force you need to exert to achieve the correct change in pitch when bending a string will change subtly between guitars. This is due to differing string tensions, arising from different gauges of string, or possibly due to differences in how the two guitars are set up. If you jump between different guitars, expect to have to subtly re-calibrate your string bend-ometer.
 
 ## :notes: Practice song: Smells Like Teen Spirit, by Nirvana
 
