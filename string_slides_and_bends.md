@@ -118,6 +118,12 @@ This technique involves bending a string up a full tone or semi tone, _and also 
 
 Here we see both the 2nd and 3rd strings on the 9th fret bending up a semi tone, before being released back down to the original pitch. You can apply pressure to the 2 strings by fretting them each individually with 2 separate fingers, or by using the _barring_ technique (as covered in the power chords guide) to fret both notes with a single finger. Be warned: these bends require some extra strength!
 
+### Double-stop slides
+
+You can probably guess what this is - a technique where you slide two or more notes at the same time:
+
+<img width="177" height="121" alt="image" src="https://github.com/user-attachments/assets/a352940c-7fa3-4ba0-be3c-bce8f3a90cf7" />
+
 
 
 
