@@ -15,7 +15,9 @@ Some guitarists choose to play rhythm parts using only downward strums (never up
 
 A famous song that just uses downstrokes for the main rhythm part is [With or Without You](https://youtube.com/shorts/q2l_Uhv_Ssc?si=5tEOzEHVkJnrgLBm), by U2. This is neither heavy nor aggressive, but if you try and play it using a mixture of up and downstrokes, you'll quickly see it has a very different feel! Consistent use of downstrokes gives this rhythm a steady, almost hypotic quality. The chords used are:
 
-CHORD DIAGRAM HERE
+
+<img width="547" height="177" alt="u2" src="https://github.com/user-attachments/assets/93ce140c-6bac-485f-b16e-a770c4d08e5f" />
+
 
 > 📌 **Note:** To play this song in the same key as the original (`DMajor`), you'll need a capo, placed on the second fret. For this lesson we'll ignore the capo and just play the song in a different key (`CMajor`). It will still sound good (as long as you don't try and play along to the recording!)
 
@@ -50,7 +52,7 @@ Downstrokes usually sound heavier, fuller, and more percussive because you’re 
 
 To practice playing rhythm parts with a combination of upstrokes and downstrokes, we will look at the intro of **Time of Your Life (Good Riddance)** by Green Day. We will be using a simplified tab which relies on simple strumming, not arpeggiated chords (which are covered in a subsequent section). A recording of this simplified version can be heard [here](https://www.youtube.com/watch?v=rg_nXKjLLCY&list=RDrg_nXKjLLCY&start_radio=1), and the chords for the intro are as follows:
 
-ADD DIAGRAM HERE
+<img width="322" height="156" alt="greendat" src="https://github.com/user-attachments/assets/03e7876c-7840-4c1b-b34f-b78d640d6082" />
 
 
 > 📌 **Note:** This is the first time we've encountered an `add9` chord. `Cadd9` is very easy to play when moving from `GMajor`, you just need to movefor first and second fingers down by one string, leaving your 4th and 5th fingers in the same position
