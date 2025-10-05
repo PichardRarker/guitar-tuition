@@ -69,7 +69,25 @@ Using simple text notation:
 
 ## :hammer_and_wrench: Technique: bending (single string)
 
-Trying to comprehensively teach string bending over text is a fool's errand. Check out this [very comprehensive string bending guide](https://youtu.be/fgDY8k0Gjzc?si=5eelEkprmmQxU9gS) from the excellent `JustinGuitar` YouTube channel.
+Trying to comprehensively teach string bending over text is a fool's errand. Check out this [great guide](https://www.youtube.com/watch?v=7yQLHM5H10c) from `MartyMusic`.
+
+
+### :thinking: String pushing/pulling, or palm rotation?
+
+The previous video shows string bending as a push/pull action of the fingers. There is another school of thought that proposes that bends should instead be driven by rotation of the palm. This approach is covered (in detail) in  [this guide ](https://youtu.be/fgDY8k0Gjzc?si=5eelEkprmmQxU9gS) from the excellent `JustinGuitar` YouTube channel. 
+
+This rotation-based approach has your thumb wrapped around the neck of the guitar, sometimes referred to as "the blues position". The finger push-pull technique, on the other hand, often has the pad of the thumb pushed into the back of the neck (the "classical position"). A clear visualisation on these 2 different hand positions (in the context of string bending) can be seen [here](https://www.youtube.com/watch?v=vtoK5YsQ_uU&t=128s).
+
+I personally think the palm rotation approach is not particularly beginner-friendly. Many people sing the praises of this approach compared to finger pushing/pulling (the last video, for example). My advice would be to start with the finger push/pull approach, and move on to the blues position-based approach when you're more comfortable, or if after a few hours of practice you're constently struggling with bending strings principally through the movement of the fingers.
+
+
+### :rage: How do I stop accidentally catching other strings when executing a bend? 
+
+When starting out, it's very common to accidentally hit other strings when executing a bend. As you bend the string up a full note, your fingers end up knocking into the string directly above the string you're bending (let's say you're bending 9th fret 2nd string, you're going to collide with the open 3rd string). As you *release* the bend, returning the 2nd string to the original pitch, you catch the 3rd string, making it ring out. Below are some tips for avoiding this situaton. It will help to see these technique suggestions in action, so make sure to watch [this video](https://www.youtube.com/watch?v=DnHS5BRn5Hg) after reading:
+
+* If you've followed along with the previous videos in this section, then you should be executing string bends with your third finger, with fingers 1 and 2 also on the string for added support. Try slightly raising up (away from the floor, towards your face) your first finger, so that when you execute the bend, you end up gently pressing against the above string. When you release the bend, your first finger will still be pressed lightly against the above string (at least for the start of the release process), preventing it ringing out.
+* Try and avoid playing string bends with your fingertips. In other words, angle your fingers slightly when fretting the notes and carrying out bends, rather than playing with your fingers completely perpendicular to the fretboard. This "flattend fingers" position is easier to adopt if you're holding the fretboard in the "blues position".
+* Use the side of the thumb to mute the string above the string you're bending, getting it into position shortly after you've picked the note and executed the bend (the unwanted noise typically only starts when you begin releasing the bend, so you have a bit of time to prepare). It's also a good idea to lightly rest your palm against strings 6, 5 and maybe 4, just in case you accidentally hit these when bending (chances are if you're looking at string bending, you're looking at strings 1, 2 and 3). I personally don't use this technique, but some do. 
 
 ## :hammer_and_wrench: Technique: sliding (single string)
 
