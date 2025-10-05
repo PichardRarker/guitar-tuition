@@ -90,7 +90,10 @@ As we are arpeggiating the chords (and so need to know which chord notes we're p
 
 <img width="600" height="200" alt="hurt_tab" src="https://github.com/user-attachments/assets/000a86e1-9cab-4bba-8673-a936143eeb90" />
 
-So we start the `Am` part of the song by first playing the open 5th string on its own, then quickly moving to the 2nd fret 4th string, before finishing with strumming the full `Am` chord. A similar pattern is then followed for `Cmaj` and `Dmaj`, before cycling back round. As a result, this song is actually a mixture of arpeggios and normal chord strums. 
+So we start the `Am` part of the song by first playing the open 5th string on its own, then quickly moving to the 2nd fret 4th string, before finishing with strumming the first 3 notes of the `Am` chord together. A similar pattern is then followed for `Cmaj` and `Dmaj`, before cycling back round. As a result, this song is actually a mixture of arpeggios and normal chord strums. 
 
 
-> 📌 **Note:** The `Am` arpeggio starts on the 5th string open, which is an `A` note. The `Cmaj` arpeggio starts on the 3rd fret 5th string, which is a `C` note. The `Dmaj` arpeggio starts on the open string of the 4th fret, which is (you guessed it) a `D` note. It's not a rule that arpeggiated chords must start on the chord root note, but often this is the case. 
+> 📌 **Note:** The `Am` arpeggio starts on the 5th string open, which is an `A` note. The `Cmaj` arpeggio starts on the 3rd fret 5th string, which is a `C` note. The `Dmaj` arpeggio starts on the open string of the 4th fret, which is (you guessed it) a `D` note. It's not a rule that arpeggiated chords must start on the chord root note, but often this is the case.
+
+
+> 💡 **Tip:** When starting out, don't worry if you hit more strings than the tab specifies for the chord strums - if you've fretted the chord properly, it will still sound very similar to the recording. If you're struggling to mix arpeggios and chord strums together, start practicing this song by just playing 3 note arpeggios for each chord. For both `Am` and `Cmaj` you would play strings 5, 4 and three in sequence, and for `Dmaj`, you would play strings 4, 3 and 2. 
