@@ -68,3 +68,29 @@ This sequence is played twice for `GMajor`, then you move to `Cadd9` and play it
 Downstrokes often land on the strong beats, whilst upstrokes naturally fall between them. Going back to our earlier strategy for representing rhythm patterns ("one and two and three and..."), downstrokes often fall on the numbers, whereas upstrokes naturally fall between them (the “ands”). **This is not a rule, it's just commonly seen!**
 
 > 💡 **Tip:** Rock and punk typically lean more on downstrokes for drive and power, but still rely on upstrokes for smoothness and speed.Reggae, funk, and ska, on the other hand, often emphasize upstrokes, giving them their characteristic “choppy” off-beat feel. An example of ska playing with strong upstroke emphasis can be heard [here](https://www.youtube.com/watch?v=Pd7wdmi6mSo&t=100s). 
+
+
+## :notes: Arpeggios
+
+
+An **arpeggio** is a type of chord in which the notes that compose a chord are individually sounded in a progressive rising or descending order, rather than strumming all the strings together. Think of it as "breaking apart" a chord - you're playing the same notes, just separately and in sequence.
+
+Your fretting hand will make the chord shapes as normal, but your right hand will individually pick the relevant notes. 
+
+
+To learn arpeggios we will look at the song [Hurt](https://www.youtube.com/watch?v=8AHCfZTRGiI&list=RD8AHCfZTRGiI&start_radio=1) - originally by Nine Inch Nails, but popularised by Johnny Cash.
+
+The chords for the intro and verse of this song are:
+
+<img width="365" height="177" alt="hurt" src="https://github.com/user-attachments/assets/fac16fab-3a4f-4817-9e86-6234550ae3b3" />
+
+
+As we are arpeggiating the chords (and so need to know which chord notes we're picking, and in which order), we need to move to guitar tab:
+
+
+<img width="313" height="87" alt="hurt_tab" src="https://github.com/user-attachments/assets/000a86e1-9cab-4bba-8673-a936143eeb90" />
+
+So we start the `Am` part of the song by first playing the open 5th string on its own, then quickly moving to the 2nd fret 4th string, before finishing with strumming the full `Am` chord. A similar pattern is then followed for `Cmaj` and `Dmaj`, before cycling back round. As a result, this song is actually a mixture of arpeggios and normal chord strums. 
+
+
+> 📌 **Note:** The `Am` arpeggio starts on the 5th string open, which is an `A` note. The `Cmaj` arpeggio starts on the 3rd fret 5th string, which is a `C` note. The `Dmaj` arpeggio starts on the open string of the 4th fret, which is (you guessed it) a `D` note. It's not a rule that arpeggiated chords must start on the chord root note, but often this is the case. 
