@@ -88,7 +88,7 @@ The chords for the intro and verse of this song are:
 As we are arpeggiating the chords (and so need to know which chord notes we're picking, and in which order), we need to move to guitar tab:
 
 
-<img width="313" height="87" alt="hurt_tab" src="https://github.com/user-attachments/assets/000a86e1-9cab-4bba-8673-a936143eeb90" />
+<img width="600" height="200" alt="hurt_tab" src="https://github.com/user-attachments/assets/000a86e1-9cab-4bba-8673-a936143eeb90" />
 
 So we start the `Am` part of the song by first playing the open 5th string on its own, then quickly moving to the 2nd fret 4th string, before finishing with strumming the full `Am` chord. A similar pattern is then followed for `Cmaj` and `Dmaj`, before cycling back round. As a result, this song is actually a mixture of arpeggios and normal chord strums. 
 
