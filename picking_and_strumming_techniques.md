@@ -107,7 +107,8 @@ The classic example of this technique is [House of the Rising Sun](https://www.y
 
 The tab for the intro is as follows:
 
-TAB
+<img width="607" height="343" alt="hotrs_tab" src="https://github.com/user-attachments/assets/4fc2c668-6900-4712-8ace-8049364c5d65" />
+
 
 > 📌 **Note:** This tab shows the associated chords above each bar. As with Hurt, this song starts with the open 5th string (`A` note), before performing an arpeggiated strum through the notes of `Am`. Also like Hurt (and many other examples of arpeggiation), we start each arpeggio by first playing the root note
 
