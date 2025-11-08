@@ -119,4 +119,10 @@ The tab for the intro is as follows:
 
 Percussive strumming involves using your strumming hand to create a rhythmic, drum-like sound whilst you play. Instead of just playing notes, you add a "chka" or "thump" sound, making your playing more rhythmic and lively. This is done by either brushing the strings with the side of your hand, or by muting the strings with your palm while strumming, so you hear a click or thud instead of a clear note. Here's a [very detailed guide](https://www.youtube.com/watch?v=MP292DdVOKs) on the technique. 
 
-A beginner friendly song that can be enhanced with percussive strumming is [Polly](https://www.youtube.com/watch?v=XzE1QIAAWIc&list=RDXzE1QIAAWIc&start_radio=1) by Nirvana. The chords are demonstrated in [this video](https://www.youtube.com/shorts/4fhYk-zsG_4). Pay close attention to the guitarist's strumming hand. Notice how they add in a percussive strum after the `Em` and `Gmaj` chords 
+A beginner friendly song that can be enhanced with percussive strumming is [Polly](https://www.youtube.com/watch?v=XzE1QIAAWIc&list=RDXzE1QIAAWIc&start_radio=1) by Nirvana:
+
+
+<img width="522" height="168" alt="polly" src="https://github.com/user-attachments/assets/637e465e-cc98-4efe-8872-5817e5e38a83" />
+
+
+An example of playing this rhythm with percussive strums can be seen [here](https://www.youtube.com/shorts/4fhYk-zsG_4). Pay close attention to the guitarist's strumming hand. Notice how they add in a percussive strum after the `Em` and `Gmaj` chords.
