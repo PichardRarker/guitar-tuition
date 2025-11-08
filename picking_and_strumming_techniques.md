@@ -97,3 +97,25 @@ So we start the `Am` part of the song by first playing the open 5th string on it
 
 
 > 💡 **Tip:** When starting out, don't worry if you hit more strings than the tab specifies for the chord strums - if you've fretted the chord properly, it will still sound very similar to the recording. If you're struggling to mix arpeggios and chord strums together, start practicing this song by just playing 3 note arpeggios for each chord. For both `Am` and `Cmaj` you would play strings 5, 4 and three in sequence, and for `Dmaj`, you would play strings 4, 3 and 2. 
+
+
+## :twisted_rightwards_arrows: Arpeggiated strumming
+
+Arpeggiated strumming a hybrid technique, combining elements of both strumming and arpeggios. Instead of strumming all the strings at once or picking individual notes in a strict sequence (as in a true arpeggio), you strum the strings in a way that emphasizes individual notes within the chord. This creates a flowing, broken-chord effect where the notes are heard more distinctly than in a typical strum.
+
+The classic example of this technique is [House of the Rising Sun](https://www.youtube.com/watch?v=N4bFqW_eu2I&list=RDN4bFqW_eu2I&start_radio=1) by The Animals
+
+The tab for the intro is as follows:
+
+TAB
+
+> 📌 **Note:** This tab shows the associated chords above each bar. As with Hurt, this song starts with the open 5th string (`A` note), before performing an arpeggiated strum through the notes of `Am`. Also like Hurt (and many other examples of arpeggiation), we start each arpeggio by first playing the root note
+
+> 📌 **Note:** When playing the `Am` arpeggio, we don't play the `E` note on the 2nd fret 4th string. There's no good reason to play this arpeggio without fretting the full `Am` chord though - we just need to be careful not to hit this `E` string to sound truly authentic. 
+
+
+## :drum: Percussive strumming
+
+Percussive strumming involves using your strumming hand to create a rhythmic, drum-like sound whilst you play. Instead of just playing notes, you add a "chka" or "thump" sound, making your playing more rhythmic and lively. This is done by either brushing the strings with the side of your hand, or by muting the strings with your palm while strumming, so you hear a click or thud instead of a clear note. Here's a [very detailed guide](https://www.youtube.com/watch?v=MP292DdVOKs) on the technique. 
+
+A beginner friendly song that can be enhanced with percussive strumming is [Polly](https://www.youtube.com/watch?v=XzE1QIAAWIc&list=RDXzE1QIAAWIc&start_radio=1) by Nirvana. The chords are demonstrated in [this video](https://www.youtube.com/shorts/4fhYk-zsG_4). Pay close attention to the guitarist's strumming hand. Notice how they add in a percussive strum after the `Em` and `Gmaj` chords 
